@@ -1,25 +1,43 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            The Simcoes
-tagline:          'An archive of the Simcoes' blog.'
-description:      'Here is a record of our lives from 2010–2016. Enjoy! 😜'
-url:              http://archive.thesimcoes.net
-baseurl:          /
-
-author:
-  name:           'Jonathan Simcoe'
-  url:            https://jdsimcoe.com
-
-paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/jdsimcoe/archive.thesimcoes.net
+---
+title: Siteleaf
+timezone: America/Los_Angeles
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/blog/:title/"
+    layout: post
+    image:
+    description:
+    button:
+      title:
+      url:
+url: http://archive.thesimcoes.net
+title: The Simcoes
+tagline: 'An archive of the Simcoes' blog.'
+description: 'Here is a record of our lives from 2010–2016. Enjoy! 😜'
+url: http://archive.thesimcoes.net
+baseurl: /
+permalink: pretty
+gems:
+- jekyll-seo-tag
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+excerpt_separator: |2+
+sass:
+  sass_dir: styles/
+  style: compressed
+per_page: 20
+date_format: "%b %d, %Y"
+future: true
