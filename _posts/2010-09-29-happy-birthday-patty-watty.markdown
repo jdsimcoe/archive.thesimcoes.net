@@ -1,0 +1,82 @@
+---
+author: jcsimcoe
+comments: true
+date: 2010-09-29 20:17:42+00:00
+layout: post
+link: https://thesimcoes.wordpress.com/2010/09/29/happy-birthday-patty-watty/
+slug: happy-birthday-patty-watty
+title: happy birthday patty watty!
+wordpress_id: 408
+---
+
+![]({{ site.baseurl }}/assets/tumblr_l9iypqZRRo1qb8l8q.jpg)
+
+
+
+
+saturday we got to celebrate my mom's birthday. what a blessing she is to our lives. we had a great time getting together with family.
+
+
+
+
+there is always lots of dancing…
+
+
+
+
+![]({{ site.baseurl }}/assets/tumblr_l9iyrwb3QL1qb8l8q.jpg)
+
+
+
+
+playing princess…
+
+
+
+
+![]({{ site.baseurl }}/assets/tumblr_l9iyscng5v1qb8l8q.jpg)
+
+
+
+
+laughter….
+
+
+
+
+![]({{ site.baseurl }}/assets/tumblr_l9iytdItLt1qb8l8q.jpg)
+
+
+
+
+singeing of eyebrows…
+
+
+
+
+![]({{ site.baseurl }}/assets/tumblr_l9iyu2CGFk1qb8l8q.jpg)
+
+
+
+
+and of course lots of love…
+
+
+
+
+![]({{ site.baseurl }}/assets/tumblr_l9iz07PLJN1qb8l8q.jpg)
+
+
+
+
+happy birthday mamacita! we love you so much!
+
+
+
+
+love,
+
+
+
+
+J&C

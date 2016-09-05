@@ -1,0 +1,20 @@
+---
+author: jcsimcoe
+comments: true
+date: 2013-10-12 16:45:26+00:00
+layout: post
+link: https://thesimcoes.wordpress.com/2013/10/12/doxi-hope/
+slug: doxi-hope
+title: No Content Found
+wordpress_id: 99
+post_format:
+- Video
+---
+
+[vimeo 76750235 w=500 h=281]
+
+
+**Doxi** — from the Greek _doxazō: _"to glorify"  
+**Hope** — a confident expectation
+
+(Source: [https://player.vimeo.com/](https://player.vimeo.com/))
