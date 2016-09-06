@@ -1,11 +1,10 @@
 ---
+title: busy busy busy
+date: 2011-12-02 16:09:00 Z
 author: jcsimcoe
 comments: true
-date: 2011-12-02 16:09:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/12/02/busy-busy-busy/
-slug: busy-busy-busy
-title: busy busy busy
 wordpress_id: 339
 ---
 

@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2013-04-04 17:16:00 Z
 author: jcsimcoe
 comments: true
-date: 2013-04-04 17:16:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2013/04/04/resurrection-sunday-praise-the-lord-jesus-for-the/
-slug: resurrection-sunday-praise-the-lord-jesus-for-the
-title: No Content Found
 wordpress_id: 131
 post_format:
 - Gallery

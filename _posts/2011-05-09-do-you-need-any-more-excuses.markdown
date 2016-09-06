@@ -1,11 +1,10 @@
 ---
+title: do you need any more excuses?
+date: 2011-05-09 22:05:41 Z
 author: jcsimcoe
 comments: true
-date: 2011-05-09 22:05:41+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/05/09/do-you-need-any-more-excuses/
-slug: do-you-need-any-more-excuses
-title: do you need any more excuses?
 wordpress_id: 358
 ---
 

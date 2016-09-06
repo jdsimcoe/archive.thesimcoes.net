@@ -1,11 +1,10 @@
 ---
+title: little kids growing up
+date: 2011-09-22 17:56:00 Z
 author: jcsimcoe
 comments: true
-date: 2011-09-22 17:56:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/09/22/little-kids-growing-up/
-slug: little-kids-growing-up
-title: little kids growing up
 wordpress_id: 345
 ---
 

@@ -1,11 +1,10 @@
 ---
+title: scalpel please...
+date: 2010-03-25 00:10:00 Z
 author: jcsimcoe
 comments: true
-date: 2010-03-25 00:10:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/03/25/scalpel-please/
-slug: scalpel-please
-title: scalpel please...
 wordpress_id: 440
 ---
 

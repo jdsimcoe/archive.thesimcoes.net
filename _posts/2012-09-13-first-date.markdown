@@ -1,11 +1,10 @@
 ---
+title: first date
+date: 2012-09-13 20:08:50 Z
 author: jcsimcoe
 comments: true
-date: 2012-09-13 20:08:50+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/09/13/first-date/
-slug: first-date
-title: first date
 wordpress_id: 212
 ---
 

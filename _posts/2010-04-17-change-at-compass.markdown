@@ -1,11 +1,10 @@
 ---
+title: "Δ at Compass"
+date: 2010-04-17 02:37:00 Z
 author: jcsimcoe
 comments: true
-date: 2010-04-17 02:37:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/04/17/change-at-compass/
-slug: change-at-compass
-title: Δ at Compass
 wordpress_id: 435
 ---
 

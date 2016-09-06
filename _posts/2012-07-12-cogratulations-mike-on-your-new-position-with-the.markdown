@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2012-07-12 16:58:09 Z
 author: jcsimcoe
 comments: true
-date: 2012-07-12 16:58:09+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/07/12/cogratulations-mike-on-your-new-position-with-the/
-slug: cogratulations-mike-on-your-new-position-with-the
-title: No Content Found
 wordpress_id: 249
 post_format:
 - Image

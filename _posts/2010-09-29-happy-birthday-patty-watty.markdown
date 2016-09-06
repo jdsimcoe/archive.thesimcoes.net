@@ -1,11 +1,10 @@
 ---
+title: happy birthday patty watty!
+date: 2010-09-29 20:17:42 Z
 author: jcsimcoe
 comments: true
-date: 2010-09-29 20:17:42+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/09/29/happy-birthday-patty-watty/
-slug: happy-birthday-patty-watty
-title: happy birthday patty watty!
 wordpress_id: 408
 ---
 

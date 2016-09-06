@@ -1,11 +1,10 @@
 ---
+title: Happy Birthday Doxi Girl!
+date: 2015-10-13 06:06:40 Z
 author: jcsimcoe
 comments: true
-date: 2015-10-13 06:06:40+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2015/10/13/happy-birthday-doxi-girl/
-slug: happy-birthday-doxi-girl
-title: Happy Birthday Doxi Girl!
 wordpress_id: 30
 ---
 

@@ -1,11 +1,10 @@
 ---
+title: Quinlan Godfrey Simcoe
+date: 2015-02-18 00:00:37 Z
 author: jcsimcoe
 comments: true
-date: 2015-02-18 00:00:37+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2015/02/18/quinlan-godfrey-simcoe/
-slug: quinlan-godfrey-simcoe
-title: Quinlan Godfrey Simcoe
 wordpress_id: 69
 ---
 

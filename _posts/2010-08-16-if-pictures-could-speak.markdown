@@ -1,11 +1,10 @@
 ---
+title: if pictures could speak...
+date: 2010-08-16 16:13:55 Z
 author: jcsimcoe
 comments: true
-date: 2010-08-16 16:13:55+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/08/16/if-pictures-could-speak/
-slug: if-pictures-could-speak
-title: if pictures could speak...
 wordpress_id: 415
 ---
 

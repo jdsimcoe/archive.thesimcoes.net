@@ -1,11 +1,10 @@
 ---
+title: little sim's baby shower
+date: 2012-04-24 15:23:00 Z
 author: jcsimcoe
 comments: true
-date: 2012-04-24 15:23:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/04/24/little-sims-baby-shower/
-slug: little-sims-baby-shower
-title: little sim's baby shower
 wordpress_id: 270
 ---
 

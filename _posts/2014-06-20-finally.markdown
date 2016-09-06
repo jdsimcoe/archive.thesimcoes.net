@@ -1,11 +1,10 @@
 ---
+title: FINALLY
+date: 2014-06-20 05:20:00 Z
 author: jcsimcoe
 comments: true
-date: 2014-06-20 05:20:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2014/06/20/finally/
-slug: finally
-title: FINALLY
 wordpress_id: 85
 ---
 

@@ -1,11 +1,10 @@
 ---
+title: you aren't the only one with surprises
+date: 2011-06-29 14:59:00 Z
 author: jcsimcoe
 comments: true
-date: 2011-06-29 14:59:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/06/29/you-arent-the-only-one-with-surprises/
-slug: you-arent-the-only-one-with-surprises
-title: you aren't the only one with surprises
 wordpress_id: 355
 ---
 

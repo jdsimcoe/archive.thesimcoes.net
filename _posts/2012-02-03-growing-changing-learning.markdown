@@ -1,11 +1,10 @@
 ---
+title: growing, changing, learning
+date: 2012-02-03 21:38:00 Z
 author: jcsimcoe
 comments: true
-date: 2012-02-03 21:38:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/02/03/growing-changing-learning/
-slug: growing-changing-learning
-title: growing, changing, learning
 wordpress_id: 329
 ---
 

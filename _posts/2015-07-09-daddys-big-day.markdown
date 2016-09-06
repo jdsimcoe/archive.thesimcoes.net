@@ -1,11 +1,10 @@
 ---
+title: Daddy’s big Day
+date: 2015-07-09 21:25:37 Z
 author: jcsimcoe
 comments: true
-date: 2015-07-09 21:25:37+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2015/07/09/daddys-big-day/
-slug: daddys-big-day
-title: Daddy’s big Day
 wordpress_id: 51
 ---
 

@@ -1,11 +1,10 @@
 ---
+title: Good Friday
+date: 2013-03-30 07:58:00 Z
 author: jcsimcoe
 comments: true
-date: 2013-03-30 07:58:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2013/03/30/good-friday/
-slug: good-friday
-title: Good Friday
 wordpress_id: 138
 ---
 

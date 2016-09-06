@@ -1,11 +1,10 @@
 ---
+title: 'simcoe style: camping edition'
+date: 2011-08-02 23:28:13 Z
 author: jcsimcoe
 comments: true
-date: 2011-08-02 23:28:13+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/08/02/simcoe-style-camping-edition/
-slug: simcoe-style-camping-edition
-title: 'simcoe style: camping edition'
 wordpress_id: 351
 ---
 

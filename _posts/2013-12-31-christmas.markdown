@@ -1,11 +1,10 @@
 ---
+title: CHRISTmas!
+date: 2013-12-31 07:14:36 Z
 author: jcsimcoe
 comments: true
-date: 2013-12-31 07:14:36+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2013/12/31/christmas/
-slug: christmas
-title: CHRISTmas!
 wordpress_id: 90
 ---
 

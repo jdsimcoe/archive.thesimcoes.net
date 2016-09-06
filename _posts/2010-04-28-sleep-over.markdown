@@ -1,11 +1,10 @@
 ---
+title: '"SLEEP" over?'
+date: 2010-04-28 19:53:00 Z
 author: jcsimcoe
 comments: true
-date: 2010-04-28 19:53:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/04/28/sleep-over/
-slug: sleep-over
-title: '"SLEEP" over?'
 wordpress_id: 432
 ---
 

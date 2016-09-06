@@ -1,11 +1,10 @@
 ---
+title: the making of a studly husband
+date: 2011-07-12 19:51:11 Z
 author: jcsimcoe
 comments: true
-date: 2011-07-12 19:51:11+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/07/12/the-making-of-a-studly-husband/
-slug: the-making-of-a-studly-husband
-title: the making of a studly husband
 wordpress_id: 354
 ---
 

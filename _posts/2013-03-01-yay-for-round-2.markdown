@@ -1,11 +1,10 @@
 ---
+title: YAY FOR ROUND 2!
+date: 2013-03-01 00:21:32 Z
 author: jcsimcoe
 comments: true
-date: 2013-03-01 00:21:32+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2013/03/01/yay-for-round-2/
-slug: yay-for-round-2
-title: YAY FOR ROUND 2!
 wordpress_id: 145
 ---
 

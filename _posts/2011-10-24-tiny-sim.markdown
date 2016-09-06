@@ -1,11 +1,10 @@
 ---
+title: tiny sim :)
+date: 2011-10-24 21:00:43 Z
 author: jcsimcoe
 comments: true
-date: 2011-10-24 21:00:43+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/10/24/tiny-sim/
-slug: tiny-sim
-title: tiny sim :)
 wordpress_id: 341
 post_format:
 - Image

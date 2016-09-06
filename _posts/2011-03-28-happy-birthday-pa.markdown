@@ -1,11 +1,10 @@
 ---
+title: happy birthday pa!
+date: 2011-03-28 21:56:00 Z
 author: jcsimcoe
 comments: true
-date: 2011-03-28 21:56:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/03/28/happy-birthday-pa/
-slug: happy-birthday-pa
-title: happy birthday pa!
 wordpress_id: 379
 ---
 

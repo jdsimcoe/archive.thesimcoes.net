@@ -1,11 +1,10 @@
 ---
+title: Happy Hallow-Giving!
+date: 2010-11-03 00:23:00 Z
 author: jcsimcoe
 comments: true
-date: 2010-11-03 00:23:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/11/03/happy-hallow-giving/
-slug: happy-hallow-giving
-title: Happy Hallow-Giving!
 wordpress_id: 405
 ---
 

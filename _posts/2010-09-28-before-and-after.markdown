@@ -1,11 +1,10 @@
 ---
+title: before and after
+date: 2010-09-28 02:09:05 Z
 author: jcsimcoe
 comments: true
-date: 2010-09-28 02:09:05+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/09/28/before-and-after/
-slug: before-and-after
-title: before and after
 wordpress_id: 409
 ---
 

@@ -1,11 +1,10 @@
 ---
+title: the effects of pie brain...
+date: 2010-11-30 00:37:49 Z
 author: jcsimcoe
 comments: true
-date: 2010-11-30 00:37:49+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/11/30/the-effects-of-pie-brain/
-slug: the-effects-of-pie-brain
-title: the effects of pie brain...
 wordpress_id: 397
 ---
 

@@ -1,11 +1,10 @@
 ---
+title: can you be too blessed?!?!
+date: 2011-02-09 20:46:00 Z
 author: jcsimcoe
 comments: true
-date: 2011-02-09 20:46:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/02/09/can-you-be-too-blessed/
-slug: can-you-be-too-blessed
-title: can you be too blessed?!?!
 wordpress_id: 386
 ---
 

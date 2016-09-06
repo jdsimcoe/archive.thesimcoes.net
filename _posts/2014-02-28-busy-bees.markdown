@@ -1,11 +1,10 @@
 ---
+title: busy bees
+date: 2014-02-28 06:20:11 Z
 author: jcsimcoe
 comments: true
-date: 2014-02-28 06:20:11+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2014/02/28/busy-bees/
-slug: busy-bees
-title: busy bees
 wordpress_id: 87
 ---
 

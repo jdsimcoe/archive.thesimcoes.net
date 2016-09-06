@@ -1,11 +1,10 @@
 ---
+title: The 12 Days of Christmas
+date: 2011-01-05 22:40:00 Z
 author: jcsimcoe
 comments: true
-date: 2011-01-05 22:40:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/01/05/the-12-days-of-christmas/
-slug: the-12-days-of-christmas
-title: The 12 Days of Christmas
 wordpress_id: 392
 ---
 

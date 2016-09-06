@@ -1,11 +1,10 @@
 ---
+title: oy vey and hallelujah
+date: 2010-12-07 16:09:00 Z
 author: jcsimcoe
 comments: true
-date: 2010-12-07 16:09:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/12/07/oy-vey-and-hallelujah/
-slug: oy-vey-and-hallelujah
-title: oy vey and hallelujah
 wordpress_id: 395
 ---
 

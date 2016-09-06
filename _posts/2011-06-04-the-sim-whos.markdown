@@ -1,11 +1,10 @@
 ---
+title: the Sim-Whos????
+date: 2011-06-04 07:11:00 Z
 author: jcsimcoe
 comments: true
-date: 2011-06-04 07:11:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/06/04/the-sim-whos/
-slug: the-sim-whos
-title: the Sim-Whos????
 wordpress_id: 357
 ---
 

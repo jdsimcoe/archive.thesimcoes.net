@@ -1,11 +1,10 @@
 ---
+title: i am your gun control.
+date: 2010-08-03 22:34:00 Z
 author: jcsimcoe
 comments: true
-date: 2010-08-03 22:34:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/08/03/i-am-your-gun-control/
-slug: i-am-your-gun-control
-title: i am your gun control.
 wordpress_id: 416
 ---
 

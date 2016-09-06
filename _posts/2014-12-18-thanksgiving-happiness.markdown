@@ -1,11 +1,10 @@
 ---
+title: Thanksgiving Happiness
+date: 2014-12-18 07:07:00 Z
 author: jcsimcoe
 comments: true
-date: 2014-12-18 07:07:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2014/12/18/thanksgiving-happiness/
-slug: thanksgiving-happiness
-title: Thanksgiving Happiness
 wordpress_id: 74
 ---
 

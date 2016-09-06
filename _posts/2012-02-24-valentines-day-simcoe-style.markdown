@@ -1,11 +1,10 @@
 ---
+title: valentines day... simcoe style
+date: 2012-02-24 00:53:00 Z
 author: jcsimcoe
 comments: true
-date: 2012-02-24 00:53:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/02/24/valentines-day-simcoe-style/
-slug: valentines-day-simcoe-style
-title: valentines day... simcoe style
 wordpress_id: 321
 ---
 

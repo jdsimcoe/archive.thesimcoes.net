@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2012-08-12 23:03:00 Z
 author: jcsimcoe
 comments: true
-date: 2012-08-12 23:03:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/08/12/the-strangest-things-happen-when-these-two-are/
-slug: the-strangest-things-happen-when-these-two-are
-title: No Content Found
 wordpress_id: 224
 post_format:
 - Video

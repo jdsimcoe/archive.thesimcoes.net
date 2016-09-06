@@ -1,11 +1,10 @@
 ---
+title: So we got a pool...
+date: 2015-06-03 22:53:29 Z
 author: jcsimcoe
 comments: true
-date: 2015-06-03 22:53:29+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2015/06/03/so-we-got-a-pool/
-slug: so-we-got-a-pool
-title: So we got a pool...
 wordpress_id: 54
 ---
 

@@ -1,11 +1,10 @@
 ---
+title: oh sweet summer...
+date: 2011-08-30 17:40:25 Z
 author: jcsimcoe
 comments: true
-date: 2011-08-30 17:40:25+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/08/30/oh-sweet-summer/
-slug: oh-sweet-summer
-title: oh sweet summer...
 wordpress_id: 348
 ---
 

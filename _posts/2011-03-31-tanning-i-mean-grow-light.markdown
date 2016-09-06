@@ -1,11 +1,10 @@
 ---
+title: tanning.. i mean grow light
+date: 2011-03-31 16:55:00 Z
 author: jcsimcoe
 comments: true
-date: 2011-03-31 16:55:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/03/31/tanning-i-mean-grow-light/
-slug: tanning-i-mean-grow-light
-title: tanning.. i mean grow light
 wordpress_id: 378
 ---
 

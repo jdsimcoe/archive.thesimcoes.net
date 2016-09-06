@@ -1,11 +1,10 @@
 ---
+title: Pray for Daisy Love Merrick
+date: 2012-05-01 17:39:00 Z
 author: jcsimcoe
 comments: true
-date: 2012-05-01 17:39:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/05/01/pray-for-daisy/
-slug: pray-for-daisy
-title: Pray for Daisy Love Merrick
 wordpress_id: 267
 post_format:
 - Link

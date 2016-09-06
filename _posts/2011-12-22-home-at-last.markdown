@@ -1,11 +1,10 @@
 ---
+title: home at last
+date: 2011-12-22 19:34:15 Z
 author: jcsimcoe
 comments: true
-date: 2011-12-22 19:34:15+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/12/22/home-at-last/
-slug: home-at-last
-title: home at last
 wordpress_id: 338
 ---
 

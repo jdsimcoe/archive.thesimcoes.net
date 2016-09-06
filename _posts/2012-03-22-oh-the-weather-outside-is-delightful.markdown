@@ -1,11 +1,10 @@
 ---
+title: oh the weather outside is... delightful!
+date: 2012-03-22 21:20:57 Z
 author: jcsimcoe
 comments: true
-date: 2012-03-22 21:20:57+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/03/22/oh-the-weather-outside-is-delightful/
-slug: oh-the-weather-outside-is-delightful
-title: oh the weather outside is... delightful!
 wordpress_id: 302
 ---
 

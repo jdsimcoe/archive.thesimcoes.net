@@ -1,11 +1,10 @@
 ---
+title: photo stream
+date: 2012-01-06 21:44:00 Z
 author: jcsimcoe
 comments: true
-date: 2012-01-06 21:44:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/01/06/photo-stream/
-slug: photo-stream
-title: photo stream
 wordpress_id: 334
 ---
 

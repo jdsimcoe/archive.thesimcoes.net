@@ -1,11 +1,10 @@
 ---
+title: God's glory in the galaxies
+date: 2011-03-14 23:34:00 Z
 author: jcsimcoe
 comments: true
-date: 2011-03-14 23:34:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/03/14/gods-glory-in-the-galaxies/
-slug: gods-glory-in-the-galaxies
-title: God's glory in the galaxies
 wordpress_id: 380
 ---
 

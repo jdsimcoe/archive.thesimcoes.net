@@ -1,11 +1,10 @@
 ---
+title: AAAAHHHHHHHppy birthday!
+date: 2010-06-25 17:14:00 Z
 author: jcsimcoe
 comments: true
-date: 2010-06-25 17:14:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/06/25/aaaahhhhhhhppy-birthday/
-slug: aaaahhhhhhhppy-birthday
-title: AAAAHHHHHHHppy birthday!
 wordpress_id: 424
 ---
 

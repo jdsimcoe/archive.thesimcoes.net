@@ -1,11 +1,10 @@
 ---
+title: between the chaos
+date: 2015-07-09 21:25:51 Z
 author: jcsimcoe
 comments: true
-date: 2015-07-09 21:25:51+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2015/07/09/between-the-chaos/
-slug: between-the-chaos
-title: between the chaos
 wordpress_id: 50
 ---
 

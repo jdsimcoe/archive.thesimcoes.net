@@ -1,11 +1,10 @@
 ---
+title: Mr. and Mrs. Michael Webb
+date: 2011-02-23 21:49:00 Z
 author: jcsimcoe
 comments: true
-date: 2011-02-23 21:49:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/02/23/mr-and-mrs-michael-webb/
-slug: mr-and-mrs-michael-webb
-title: Mr. and Mrs. Michael Webb
 wordpress_id: 385
 ---
 

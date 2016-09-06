@@ -1,11 +1,10 @@
 ---
+title: Happy First Birthday Princess!
+date: 2014-12-18 06:29:41 Z
 author: jcsimcoe
 comments: true
-date: 2014-12-18 06:29:41+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2014/12/18/happy-first-birthday-princess/
-slug: happy-first-birthday-princess
-title: Happy First Birthday Princess!
 wordpress_id: 78
 ---
 

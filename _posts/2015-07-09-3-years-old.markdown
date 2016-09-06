@@ -1,14 +1,13 @@
 ---
-author: jcsimcoe
-comments: true
-date: 2015-07-09 20:59:33+00:00
-layout: post
-link: https://thesimcoes.wordpress.com/2015/07/09/3-years-old/
-slug: 3-years-old
 title: 3 YEARS OLD!
-wordpress_id: 52
+date: 2015-07-09 20:59:33 Z
 tags:
 - Happy Birthday to our sweet boy! We love you sooooo much!
+author: jcsimcoe
+comments: true
+layout: post
+link: https://thesimcoes.wordpress.com/2015/07/09/3-years-old/
+wordpress_id: 52
 ---
 
 I can’t believe Z is already 3! Here is a recap of all the events:

@@ -1,11 +1,10 @@
 ---
+title: Excuse our E-Dust
+date: 2015-04-19 04:52:37 Z
 author: jcsimcoe
 comments: true
-date: 2015-04-19 04:52:37+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2015/04/19/excuse-our-e-dust/
-slug: excuse-our-e-dust
-title: Excuse our E-Dust
 wordpress_id: 62
 ---
 

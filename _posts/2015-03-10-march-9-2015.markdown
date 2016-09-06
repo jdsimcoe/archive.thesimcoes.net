@@ -1,11 +1,10 @@
 ---
+title: March 9, 2015
+date: 2015-03-10 05:58:41 Z
 author: jcsimcoe
 comments: true
-date: 2015-03-10 05:58:41+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2015/03/10/march-9-2015/
-slug: march-9-2015
-title: March 9, 2015
 wordpress_id: 67
 ---
 

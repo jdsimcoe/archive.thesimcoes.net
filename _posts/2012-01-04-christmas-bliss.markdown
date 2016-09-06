@@ -1,11 +1,10 @@
 ---
+title: Christmas bliss
+date: 2012-01-04 17:47:00 Z
 author: jcsimcoe
 comments: true
-date: 2012-01-04 17:47:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/01/04/christmas-bliss/
-slug: christmas-bliss
-title: Christmas bliss
 wordpress_id: 336
 ---
 

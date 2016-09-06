@@ -1,11 +1,10 @@
 ---
+title: well, we all get older...
+date: 2011-04-08 17:06:00 Z
 author: jcsimcoe
 comments: true
-date: 2011-04-08 17:06:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/04/08/well-we-all-get-older/
-slug: well-we-all-get-older
-title: well, we all get older...
 wordpress_id: 374
 ---
 

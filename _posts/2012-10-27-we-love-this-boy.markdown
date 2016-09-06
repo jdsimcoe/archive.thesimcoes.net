@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2012-10-27 05:21:56 Z
 author: jcsimcoe
 comments: true
-date: 2012-10-27 05:21:56+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/10/27/we-love-this-boy/
-slug: we-love-this-boy
-title: No Content Found
 wordpress_id: 195
 post_format:
 - Image

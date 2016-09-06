@@ -1,11 +1,10 @@
 ---
+title: on a jet plane...
+date: 2010-10-12 05:22:06 Z
 author: jcsimcoe
 comments: true
-date: 2010-10-12 05:22:06+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/10/12/on-a-jet-plane/
-slug: on-a-jet-plane
-title: on a jet plane...
 wordpress_id: 407
 ---
 

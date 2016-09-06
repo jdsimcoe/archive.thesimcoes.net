@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2012-09-26 03:33:53 Z
 author: jcsimcoe
 comments: true
-date: 2012-09-26 03:33:53+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/09/26/jonathan-didnt-expect-his-wife-to-bust-a-move/
-slug: jonathan-didnt-expect-his-wife-to-bust-a-move
-title: No Content Found
 wordpress_id: 210
 post_format:
 - Video

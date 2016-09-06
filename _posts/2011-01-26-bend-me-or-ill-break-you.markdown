@@ -1,11 +1,10 @@
 ---
+title: Bend me or i'll break you.
+date: 2011-01-26 18:16:00 Z
 author: jcsimcoe
 comments: true
-date: 2011-01-26 18:16:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/01/26/bend-me-or-ill-break-you/
-slug: bend-me-or-ill-break-you
-title: Bend me or i'll break you.
 wordpress_id: 388
 ---
 

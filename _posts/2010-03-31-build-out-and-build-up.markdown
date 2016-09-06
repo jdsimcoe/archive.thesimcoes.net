@@ -1,11 +1,10 @@
 ---
+title: Build Out and Build Up!
+date: 2010-03-31 15:18:24 Z
 author: jcsimcoe
 comments: true
-date: 2010-03-31 15:18:24+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/03/31/build-out-and-build-up/
-slug: build-out-and-build-up
-title: Build Out and Build Up!
 wordpress_id: 439
 post_format:
 - Link

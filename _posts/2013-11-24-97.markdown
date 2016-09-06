@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2013-11-24 00:31:37 Z
 author: jcsimcoe
 comments: true
-date: 2013-11-24 00:31:37+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2013/11/24/97/
-slug: '97'
-title: No Content Found
 wordpress_id: 97
 post_format:
 - Video

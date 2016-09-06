@@ -1,11 +1,10 @@
 ---
+title: young at heart
+date: 2012-01-11 21:19:26 Z
 author: jcsimcoe
 comments: true
-date: 2012-01-11 21:19:26+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/01/11/young-at-heart/
-slug: young-at-heart
-title: young at heart
 wordpress_id: 332
 ---
 

@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2011-03-09 21:17:00 Z
 author: jcsimcoe
 comments: true
-date: 2011-03-09 21:17:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/03/09/381/
-slug: '381'
-title: No Content Found
 wordpress_id: 381
 post_format:
 - Image

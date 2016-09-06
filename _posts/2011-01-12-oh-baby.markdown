@@ -1,11 +1,10 @@
 ---
+title: oh baby!
+date: 2011-01-12 21:38:00 Z
 author: jcsimcoe
 comments: true
-date: 2011-01-12 21:38:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/01/12/oh-baby/
-slug: oh-baby
-title: oh baby!
 wordpress_id: 391
 ---
 

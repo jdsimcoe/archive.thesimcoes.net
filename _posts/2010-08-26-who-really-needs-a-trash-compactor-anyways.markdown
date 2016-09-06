@@ -1,11 +1,10 @@
 ---
+title: who really needs a trash compactor anyways?
+date: 2010-08-26 16:03:13 Z
 author: jcsimcoe
 comments: true
-date: 2010-08-26 16:03:13+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/08/26/who-really-needs-a-trash-compactor-anyways/
-slug: who-really-needs-a-trash-compactor-anyways
-title: who really needs a trash compactor anyways?
 wordpress_id: 414
 ---
 

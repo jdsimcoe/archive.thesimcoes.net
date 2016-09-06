@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2014-09-30 16:42:00 Z
 author: jcsimcoe
 comments: true
-date: 2014-09-30 16:42:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2014/09/30/happy-33rd-birthday-papa-daddy/
-slug: happy-33rd-birthday-papa-daddy
-title: No Content Found
 wordpress_id: 82
 post_format:
 - Video

@@ -1,11 +1,10 @@
 ---
+title: Summer of 2013
+date: 2013-10-10 20:19:00 Z
 author: jcsimcoe
 comments: true
-date: 2013-10-10 20:19:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2013/10/10/summer-of-2013/
-slug: summer-of-2013
-title: Summer of 2013
 wordpress_id: 101
 ---
 

@@ -1,11 +1,10 @@
 ---
+title: Fruit and Flowers
+date: 2013-02-10 04:32:00 Z
 author: jcsimcoe
 comments: true
-date: 2013-02-10 04:32:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2013/02/10/fruit-and-flowers/
-slug: fruit-and-flowers
-title: Fruit and Flowers
 wordpress_id: 161
 ---
 

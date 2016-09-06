@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2013-03-05 22:03:52 Z
 author: jcsimcoe
 comments: true
-date: 2013-03-05 22:03:52+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2013/03/05/grow-old-along-with-me-the-best-is-yet-to-be/
-slug: grow-old-along-with-me-the-best-is-yet-to-be
-title: No Content Found
 wordpress_id: 142
 post_format:
 - Image

@@ -1,16 +1,15 @@
 ---
+title: Ugly Sweater Sunday
+date: 2014-12-18 07:35:00 Z
+tags:
+- redeemerpdx
 author: jcsimcoe
 comments: true
-date: 2014-12-18 07:35:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2014/12/18/ugly-sweater-sunday/
-slug: ugly-sweater-sunday
-title: Ugly Sweater Sunday
 wordpress_id: 73
 post_format:
 - Link
-tags:
-- redeemerpdx
 ---
 
 ![](https://scontent-b-pao.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/s720x720/10262193_384679395028226_2595622899835240023_n.jpg?oh=024ad9e0b4a31cd33fca6fc4f0203b20&oe=550E65DF)

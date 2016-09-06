@@ -1,11 +1,10 @@
 ---
+title: happy birthday mamma simcoe!
+date: 2010-05-07 23:18:28 Z
 author: jcsimcoe
 comments: true
-date: 2010-05-07 23:18:28+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/05/07/happy-birthday-mamma-simcoe/
-slug: happy-birthday-mamma-simcoe
-title: happy birthday mamma simcoe!
 wordpress_id: 431
 ---
 

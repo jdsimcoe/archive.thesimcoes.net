@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2010-04-24 18:14:02 Z
 author: jcsimcoe
 comments: true
-date: 2010-04-24 18:14:02+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/04/24/walkin-on-water-and-sleepin-on-the-floor/
-slug: walkin-on-water-and-sleepin-on-the-floor
-title: No Content Found
 wordpress_id: 433
 post_format:
 - Audio

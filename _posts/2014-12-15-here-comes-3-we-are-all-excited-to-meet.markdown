@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2014-12-15 04:18:00 Z
 author: jcsimcoe
 comments: true
-date: 2014-12-15 04:18:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2014/12/15/here-comes-3-we-are-all-excited-to-meet/
-slug: here-comes-3-we-are-all-excited-to-meet
-title: No Content Found
 wordpress_id: 79
 post_format:
 - Image

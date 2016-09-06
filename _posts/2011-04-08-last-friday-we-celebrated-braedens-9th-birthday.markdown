@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2011-04-08 04:50:02 Z
 author: jcsimcoe
 comments: true
-date: 2011-04-08 04:50:02+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/04/08/last-friday-we-celebrated-braedens-9th-birthday/
-slug: last-friday-we-celebrated-braedens-9th-birthday
-title: No Content Found
 wordpress_id: 375
 post_format:
 - Video

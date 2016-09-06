@@ -1,11 +1,10 @@
 ---
+title: Little Man, Big Decision
+date: 2015-06-03 23:00:55 Z
 author: jcsimcoe
 comments: true
-date: 2015-06-03 23:00:55+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2015/06/03/little-man-big-decision/
-slug: little-man-big-decision
-title: Little Man, Big Decision
 wordpress_id: 53
 ---
 

@@ -1,11 +1,10 @@
 ---
+title: Late Harvest
+date: 2013-12-30 05:25:20 Z
 author: jcsimcoe
 comments: true
-date: 2013-12-30 05:25:20+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2013/12/30/late-harvest/
-slug: late-harvest
-title: Late Harvest
 wordpress_id: 93
 ---
 

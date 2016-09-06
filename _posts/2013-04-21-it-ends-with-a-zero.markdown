@@ -1,11 +1,10 @@
 ---
+title: it ends with a zero
+date: 2013-04-21 17:26:00 Z
 author: jcsimcoe
 comments: true
-date: 2013-04-21 17:26:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2013/04/21/it-ends-with-a-zero/
-slug: it-ends-with-a-zero
-title: it ends with a zero
 wordpress_id: 127
 ---
 

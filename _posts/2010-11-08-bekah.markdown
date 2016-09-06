@@ -1,11 +1,10 @@
 ---
+title: bekah
+date: 2010-11-08 19:55:32 Z
 author: jcsimcoe
 comments: true
-date: 2010-11-08 19:55:32+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/11/08/bekah/
-slug: bekah
-title: bekah
 wordpress_id: 403
 ---
 

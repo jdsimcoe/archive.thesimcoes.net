@@ -1,11 +1,10 @@
 ---
+title: enjoy it while it lasts!
+date: 2011-09-14 21:13:08 Z
 author: jcsimcoe
 comments: true
-date: 2011-09-14 21:13:08+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/09/14/enjoy-it-while-it-lasts/
-slug: enjoy-it-while-it-lasts
-title: enjoy it while it lasts!
 wordpress_id: 347
 ---
 

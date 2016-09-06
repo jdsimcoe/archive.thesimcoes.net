@@ -1,11 +1,10 @@
 ---
+title: ketchup
+date: 2010-09-09 22:29:00 Z
 author: jcsimcoe
 comments: true
-date: 2010-09-09 22:29:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/09/09/ketchup/
-slug: ketchup
-title: ketchup
 wordpress_id: 413
 ---
 

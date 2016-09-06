@@ -1,11 +1,10 @@
 ---
+title: i was told it is "kid" sitting
+date: 2011-07-25 23:00:00 Z
 author: jcsimcoe
 comments: true
-date: 2011-07-25 23:00:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/07/25/i-was-told-it-is-kid-sitting/
-slug: i-was-told-it-is-kid-sitting
-title: i was told it is "kid" sitting
 wordpress_id: 352
 ---
 

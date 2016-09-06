@@ -1,11 +1,10 @@
 ---
+title: record numbers!
+date: 2011-11-08 01:05:49 Z
 author: jcsimcoe
 comments: true
-date: 2011-11-08 01:05:49+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/11/08/record-numbers/
-slug: record-numbers
-title: record numbers!
 wordpress_id: 340
 ---
 

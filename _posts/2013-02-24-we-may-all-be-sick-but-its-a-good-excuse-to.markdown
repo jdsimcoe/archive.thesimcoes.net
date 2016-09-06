@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2013-02-24 04:31:11 Z
 author: jcsimcoe
 comments: true
-date: 2013-02-24 04:31:11+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2013/02/24/we-may-all-be-sick-but-its-a-good-excuse-to/
-slug: we-may-all-be-sick-but-its-a-good-excuse-to
-title: No Content Found
 wordpress_id: 149
 post_format:
 - Image

@@ -1,11 +1,10 @@
 ---
+title: love is blooming... and so are the roses!
+date: 2010-06-30 22:36:00 Z
 author: jcsimcoe
 comments: true
-date: 2010-06-30 22:36:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/06/30/love-is-blooming-and-so-are-the-roses/
-slug: love-is-blooming-and-so-are-the-roses
-title: love is blooming... and so are the roses!
 wordpress_id: 423
 ---
 

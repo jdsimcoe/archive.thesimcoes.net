@@ -1,11 +1,10 @@
 ---
+title: just because a blast from the past is a good laugh for the present...
+date: 2010-03-31 15:49:00 Z
 author: jcsimcoe
 comments: true
-date: 2010-03-31 15:49:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/03/31/just-because-a-blast-from-the-past-is-a-good-laugh/
-slug: just-because-a-blast-from-the-past-is-a-good-laugh
-title: just because a blast from the past is a good laugh for the present...
 wordpress_id: 438
 ---
 

@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2014-02-26 19:47:51 Z
 author: jcsimcoe
 comments: true
-date: 2014-02-26 19:47:51+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2014/02/26/snow-blast/
-slug: snow-blast
-title: No Content Found
 wordpress_id: 88
 post_format:
 - Video

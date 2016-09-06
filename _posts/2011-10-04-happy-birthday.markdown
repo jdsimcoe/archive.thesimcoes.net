@@ -1,11 +1,10 @@
 ---
+title: happy birthday!
+date: 2011-10-04 19:02:00 Z
 author: jcsimcoe
 comments: true
-date: 2011-10-04 19:02:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/10/04/happy-birthday/
-slug: happy-birthday
-title: happy birthday!
 wordpress_id: 343
 ---
 

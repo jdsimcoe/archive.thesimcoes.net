@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2015-04-24 21:26:50 Z
 author: jcsimcoe
 comments: true
-date: 2015-04-24 21:26:50+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2015/04/24/this-thing-is-not-going-to-break-you-click/
-slug: this-thing-is-not-going-to-break-you-click
-title: No Content Found
 wordpress_id: 60
 post_format:
 - Audio

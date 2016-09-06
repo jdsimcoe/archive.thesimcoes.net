@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2011-04-12 20:41:32 Z
 author: jcsimcoe
 comments: true
-date: 2011-04-12 20:41:32+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/04/12/360/
-slug: '360'
-title: No Content Found
 wordpress_id: 360
 post_format:
 - Video

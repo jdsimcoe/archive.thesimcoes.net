@@ -1,11 +1,10 @@
 ---
+title: the nativity
+date: 2010-12-13 22:47:00 Z
 author: jcsimcoe
 comments: true
-date: 2010-12-13 22:47:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/12/13/the-nativity/
-slug: the-nativity
-title: the nativity
 wordpress_id: 394
 ---
 

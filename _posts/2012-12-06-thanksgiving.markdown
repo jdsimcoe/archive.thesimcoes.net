@@ -1,11 +1,10 @@
 ---
+title: THANKSgiving
+date: 2012-12-06 06:11:35 Z
 author: jcsimcoe
 comments: true
-date: 2012-12-06 06:11:35+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/12/06/thanksgiving/
-slug: thanksgiving
-title: THANKSgiving
 wordpress_id: 188
 ---
 

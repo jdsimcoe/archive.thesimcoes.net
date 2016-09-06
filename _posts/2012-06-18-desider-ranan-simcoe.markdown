@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2012-06-18 04:28:00 Z
 author: jcsimcoe
 comments: true
-date: 2012-06-18 04:28:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/06/18/desider-ranan-simcoe/
-slug: desider-ranan-simcoe
-title: No Content Found
 wordpress_id: 256
 post_format:
 - Video

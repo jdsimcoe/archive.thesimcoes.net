@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2013-04-13 23:49:00 Z
 author: jcsimcoe
 comments: true
-date: 2013-04-13 23:49:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2013/04/13/when-daddys-in-charge-i-am-more-particular-about/
-slug: when-daddys-in-charge-i-am-more-particular-about
-title: No Content Found
 wordpress_id: 128
 post_format:
 - Image

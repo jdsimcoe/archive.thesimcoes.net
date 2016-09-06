@@ -1,11 +1,10 @@
 ---
+title: hold on to your boatnik!
+date: 2010-06-02 00:19:00 Z
 author: jcsimcoe
 comments: true
-date: 2010-06-02 00:19:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/06/02/hold-on-to-your-boatnik/
-slug: hold-on-to-your-boatnik
-title: hold on to your boatnik!
 wordpress_id: 426
 ---
 

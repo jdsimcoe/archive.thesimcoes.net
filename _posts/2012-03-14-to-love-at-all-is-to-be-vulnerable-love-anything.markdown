@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2012-03-14 18:38:00 Z
 author: jcsimcoe
 comments: true
-date: 2012-03-14 18:38:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/03/14/to-love-at-all-is-to-be-vulnerable-love-anything/
-slug: to-love-at-all-is-to-be-vulnerable-love-anything
-title: No Content Found
 wordpress_id: 309
 post_format:
 - Quote

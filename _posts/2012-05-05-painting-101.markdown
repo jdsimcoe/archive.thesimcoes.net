@@ -1,11 +1,10 @@
 ---
+title: painting 101
+date: 2012-05-05 17:36:19 Z
 author: jcsimcoe
 comments: true
-date: 2012-05-05 17:36:19+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/05/05/painting-101/
-slug: painting-101
-title: painting 101
 wordpress_id: 266
 ---
 

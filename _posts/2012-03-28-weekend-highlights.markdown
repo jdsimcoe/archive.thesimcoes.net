@@ -1,11 +1,10 @@
 ---
+title: weekend highlights
+date: 2012-03-28 20:19:08 Z
 author: jcsimcoe
 comments: true
-date: 2012-03-28 20:19:08+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/03/28/weekend-highlights/
-slug: weekend-highlights
-title: weekend highlights
 wordpress_id: 301
 ---
 

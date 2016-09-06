@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2014-12-18 06:32:33 Z
 author: jcsimcoe
 comments: true
-date: 2014-12-18 06:32:33+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2014/12/18/its-a-boy/
-slug: its-a-boy
-title: No Content Found
 wordpress_id: 75
 post_format:
 - Image

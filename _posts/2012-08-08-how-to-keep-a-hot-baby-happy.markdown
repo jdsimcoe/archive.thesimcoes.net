@@ -1,11 +1,10 @@
 ---
+title: how to keep a hot baby happy!
+date: 2012-08-08 21:07:37 Z
 author: jcsimcoe
 comments: true
-date: 2012-08-08 21:07:37+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/08/08/how-to-keep-a-hot-baby-happy/
-slug: how-to-keep-a-hot-baby-happy
-title: how to keep a hot baby happy!
 wordpress_id: 226
 ---
 

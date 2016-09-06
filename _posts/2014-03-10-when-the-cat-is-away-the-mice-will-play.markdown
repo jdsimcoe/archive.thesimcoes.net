@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2014-03-10 22:01:38 Z
 author: jcsimcoe
 comments: true
-date: 2014-03-10 22:01:38+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2014/03/10/when-the-cat-is-away-the-mice-will-play/
-slug: when-the-cat-is-away-the-mice-will-play
-title: No Content Found
 wordpress_id: 86
 ---
 

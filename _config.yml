@@ -1,26 +1,25 @@
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            The Simcoes
-tagline:          'An archive for the Simcoe blog.'
-description:      'Here is a record of our lives from 2010–2016. Enjoy! 😜'
-url:              http://archive.thesimcoes.net
-
+---
+title: The Simcoes
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+permalink: pretty
+tagline: An archive for the Simcoe blog.
+description: "Here is a record of our lives from 2010–2016. Enjoy! \U0001F61C"
+url: http://archive.thesimcoes.net
 author:
-  name:           'Jonathan Simcoe'
-  url:            https://jdsimcoe.com
-
-paginate:         20
-
-# Custom vars
-version:          2.1.0
-
-# Gems
+  name: Jonathan Simcoe
+  url: https://jdsimcoe.com
+paginate: 20
+version: 2.1.0
 gems:
 - jekyll-paginate
 - jekyll-watch
-
 markdown: kramdown
 kramdown:
   input: GFM

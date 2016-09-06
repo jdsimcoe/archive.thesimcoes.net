@@ -1,11 +1,10 @@
 ---
+title: three.
+date: 2012-02-10 00:53:00 Z
 author: jcsimcoe
 comments: true
-date: 2012-02-10 00:53:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/02/10/three/
-slug: three
-title: three.
 wordpress_id: 325
 ---
 

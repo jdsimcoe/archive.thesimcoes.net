@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2013-09-30 04:04:00 Z
 author: jcsimcoe
 comments: true
-date: 2013-09-30 04:04:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2013/09/30/we-always-knew-that-desider-would-love-the-beach/
-slug: we-always-knew-that-desider-would-love-the-beach
-title: No Content Found
 wordpress_id: 102
 post_format:
 - Gallery

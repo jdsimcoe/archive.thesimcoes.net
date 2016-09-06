@@ -1,11 +1,10 @@
 ---
+title: this sun is NO JOKE!
+date: 2011-04-01 23:34:00 Z
 author: jcsimcoe
 comments: true
-date: 2011-04-01 23:34:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/04/01/this-sun-is-no-joke/
-slug: this-sun-is-no-joke
-title: this sun is NO JOKE!
 wordpress_id: 377
 ---
 

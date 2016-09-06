@@ -1,11 +1,10 @@
 ---
+title: at least we aren't too arrogant
+date: 2010-11-15 16:44:00 Z
 author: jcsimcoe
 comments: true
-date: 2010-11-15 16:44:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/11/15/at-least-we-arent-too-arrogant/
-slug: at-least-we-arent-too-arrogant
-title: at least we aren't too arrogant
 wordpress_id: 402
 ---
 

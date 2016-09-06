@@ -1,11 +1,10 @@
 ---
+title: Little Sim aint so little anymore!
+date: 2014-08-28 22:12:09 Z
 author: jcsimcoe
 comments: true
-date: 2014-08-28 22:12:09+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2014/08/28/little-sim-aint-so-little-anymore/
-slug: little-sim-aint-so-little-anymore
-title: Little Sim aint so little anymore!
 wordpress_id: 84
 ---
 

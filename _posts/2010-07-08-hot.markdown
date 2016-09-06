@@ -1,11 +1,10 @@
 ---
+title: hot?
+date: 2010-07-08 16:37:16 Z
 author: jcsimcoe
 comments: true
-date: 2010-07-08 16:37:16+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/07/08/hot/
-slug: hot
-title: hot?
 wordpress_id: 422
 ---
 

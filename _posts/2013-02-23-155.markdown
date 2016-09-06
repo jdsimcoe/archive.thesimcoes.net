@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2013-02-23 03:13:50 Z
 author: jcsimcoe
 comments: true
-date: 2013-02-23 03:13:50+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2013/02/23/155/
-slug: '155'
-title: No Content Found
 wordpress_id: 155
 post_format:
 - Image

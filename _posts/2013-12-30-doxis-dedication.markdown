@@ -1,11 +1,10 @@
 ---
+title: Doxi's Dedication
+date: 2013-12-30 06:26:00 Z
 author: jcsimcoe
 comments: true
-date: 2013-12-30 06:26:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2013/12/30/doxis-dedication/
-slug: doxis-dedication
-title: Doxi's Dedication
 wordpress_id: 91
 ---
 

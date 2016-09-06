@@ -1,11 +1,10 @@
 ---
+title: who is watching who???
+date: 2011-01-20 17:19:15 Z
 author: jcsimcoe
 comments: true
-date: 2011-01-20 17:19:15+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/01/20/who-is-watching-who/
-slug: who-is-watching-who
-title: who is watching who???
 wordpress_id: 390
 ---
 

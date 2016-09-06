@@ -1,11 +1,10 @@
 ---
+title: window shopping
+date: 2012-12-07 01:14:00 Z
 author: jcsimcoe
 comments: true
-date: 2012-12-07 01:14:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/12/07/window-shopping/
-slug: window-shopping
-title: window shopping
 wordpress_id: 187
 ---
 

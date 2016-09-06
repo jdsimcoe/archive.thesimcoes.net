@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2013-01-28 06:19:48 Z
 author: jcsimcoe
 comments: true
-date: 2013-01-28 06:19:48+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2013/01/28/we-determine-to-raise-our-son-in-the-ways-of-the/
-slug: we-determine-to-raise-our-son-in-the-ways-of-the
-title: No Content Found
 wordpress_id: 170
 post_format:
 - Video

@@ -1,11 +1,10 @@
 ---
+title: praise the LORD
+date: 2010-10-25 17:37:34 Z
 author: jcsimcoe
 comments: true
-date: 2010-10-25 17:37:34+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/10/25/praise-the-lord/
-slug: praise-the-lord
-title: praise the LORD
 wordpress_id: 406
 ---
 

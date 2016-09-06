@@ -1,11 +1,10 @@
 ---
+title: Take II
+date: 2010-05-07 23:28:46 Z
 author: jcsimcoe
 comments: true
-date: 2010-05-07 23:28:46+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/05/07/take-ii/
-slug: take-ii
-title: Take II
 wordpress_id: 430
 ---
 

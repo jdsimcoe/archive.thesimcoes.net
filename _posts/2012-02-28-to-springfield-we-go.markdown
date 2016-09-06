@@ -1,11 +1,10 @@
 ---
+title: to springfield we go...
+date: 2012-02-28 20:14:00 Z
 author: jcsimcoe
 comments: true
-date: 2012-02-28 20:14:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/02/28/to-springfield-we-go/
-slug: to-springfield-we-go
-title: to springfield we go...
 wordpress_id: 320
 ---
 

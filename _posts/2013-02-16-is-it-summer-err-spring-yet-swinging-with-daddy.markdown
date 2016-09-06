@@ -1,11 +1,10 @@
 ---
+title: No Content Found
+date: 2013-02-16 03:17:44 Z
 author: jcsimcoe
 comments: true
-date: 2013-02-16 03:17:44+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2013/02/16/is-it-summer-err-spring-yet-swinging-with-daddy/
-slug: is-it-summer-err-spring-yet-swinging-with-daddy
-title: No Content Found
 wordpress_id: 158
 post_format:
 - Image

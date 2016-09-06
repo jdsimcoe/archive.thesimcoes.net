@@ -1,11 +1,10 @@
 ---
+title: the adventures of Pleasebetree
+date: 2010-11-30 17:58:00 Z
 author: jcsimcoe
 comments: true
-date: 2010-11-30 17:58:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/11/30/the-adventures-of-pleasebetree/
-slug: the-adventures-of-pleasebetree
-title: the adventures of Pleasebetree
 wordpress_id: 396
 ---
 

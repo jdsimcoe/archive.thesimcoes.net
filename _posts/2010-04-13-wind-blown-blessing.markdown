@@ -1,11 +1,10 @@
 ---
+title: Wind Blown Blessing
+date: 2010-04-13 17:42:00 Z
 author: jcsimcoe
 comments: true
-date: 2010-04-13 17:42:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/04/13/wind-blown-blessing/
-slug: wind-blown-blessing
-title: Wind Blown Blessing
 wordpress_id: 436
 ---
 

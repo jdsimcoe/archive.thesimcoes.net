@@ -1,11 +1,10 @@
 ---
+title: 10 years later...
+date: 2011-08-24 00:20:27 Z
 author: jcsimcoe
 comments: true
-date: 2011-08-24 00:20:27+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/08/24/10-years-later/
-slug: 10-years-later
-title: 10 years later...
 wordpress_id: 349
 ---
 

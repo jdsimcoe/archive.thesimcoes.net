@@ -1,11 +1,10 @@
 ---
+title: NMG retreat
+date: 2010-05-17 17:49:42 Z
 author: jcsimcoe
 comments: true
-date: 2010-05-17 17:49:42+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/05/17/nmg-retreat/
-slug: nmg-retreat
-title: NMG retreat
 wordpress_id: 428
 ---
 

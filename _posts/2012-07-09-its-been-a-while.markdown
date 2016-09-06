@@ -1,11 +1,10 @@
 ---
+title: its been a while....
+date: 2012-07-09 11:53:00 Z
 author: jcsimcoe
 comments: true
-date: 2012-07-09 11:53:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/07/09/its-been-a-while/
-slug: its-been-a-while
-title: its been a while....
 wordpress_id: 255
 ---
 

@@ -1,11 +1,10 @@
 ---
+title: Repairing the heart
+date: 2015-03-10 05:33:33 Z
 author: jcsimcoe
 comments: true
-date: 2015-03-10 05:33:33+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2015/03/10/repairing-the-heart/
-slug: repairing-the-heart
-title: Repairing the heart
 wordpress_id: 68
 ---
 

@@ -1,11 +1,10 @@
 ---
+title: Madeline Joy
+date: 2012-01-05 16:17:31 Z
 author: jcsimcoe
 comments: true
-date: 2012-01-05 16:17:31+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2012/01/05/madeline-joy/
-slug: madeline-joy
-title: Madeline Joy
 wordpress_id: 335
 ---
 

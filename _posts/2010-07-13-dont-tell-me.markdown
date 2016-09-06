@@ -1,11 +1,10 @@
 ---
+title: don't tell me...
+date: 2010-07-13 21:40:00 Z
 author: jcsimcoe
 comments: true
-date: 2010-07-13 21:40:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/07/13/dont-tell-me/
-slug: dont-tell-me
-title: don't tell me...
 wordpress_id: 421
 ---
 

@@ -1,11 +1,10 @@
 ---
+title: Resurrection Sunday and Birthday Bash!
+date: 2010-04-06 15:43:00 Z
 author: jcsimcoe
 comments: true
-date: 2010-04-06 15:43:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/04/06/resurrection-sunday-and-birthday-bash/
-slug: resurrection-sunday-and-birthday-bash
-title: Resurrection Sunday and Birthday Bash!
 wordpress_id: 437
 ---
 

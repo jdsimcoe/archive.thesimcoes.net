@@ -1,11 +1,10 @@
 ---
+title: Late Thanksgiving
+date: 2013-12-30 05:28:00 Z
 author: jcsimcoe
 comments: true
-date: 2013-12-30 05:28:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2013/12/30/late-thanksgiving/
-slug: late-thanksgiving
-title: Late Thanksgiving
 wordpress_id: 92
 ---
 

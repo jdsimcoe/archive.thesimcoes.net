@@ -1,11 +1,10 @@
 ---
+title: Get out of here!
+date: 2011-06-16 01:20:00 Z
 author: jcsimcoe
 comments: true
-date: 2011-06-16 01:20:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/06/16/get-out-of-here/
-slug: get-out-of-here
-title: Get out of here!
 wordpress_id: 356
 ---
 

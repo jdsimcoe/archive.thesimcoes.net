@@ -1,11 +1,10 @@
 ---
+title: nativity nerd-out
+date: 2011-12-22 19:47:00 Z
 author: jcsimcoe
 comments: true
-date: 2011-12-22 19:47:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/12/22/nativity-nerd-out/
-slug: nativity-nerd-out
-title: nativity nerd-out
 wordpress_id: 337
 ---
 

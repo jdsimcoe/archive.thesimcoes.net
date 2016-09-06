@@ -1,11 +1,10 @@
 ---
+title: Bend Bonanza!
+date: 2011-08-16 19:01:00 Z
 author: jcsimcoe
 comments: true
-date: 2011-08-16 19:01:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/08/16/bend-bonanza/
-slug: bend-bonanza
-title: Bend Bonanza!
 wordpress_id: 350
 ---
 

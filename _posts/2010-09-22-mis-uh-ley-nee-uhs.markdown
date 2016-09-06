@@ -1,11 +1,10 @@
 ---
+title: "[mis-uh-ley-nee-uhs]"
+date: 2010-09-22 17:38:00 Z
 author: jcsimcoe
 comments: true
-date: 2010-09-22 17:38:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/09/22/mis-uh-ley-nee-uhs/
-slug: mis-uh-ley-nee-uhs
-title: '[mis-uh-ley-nee-uhs]'
 wordpress_id: 412
 ---
 

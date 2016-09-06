@@ -1,11 +1,10 @@
 ---
+title: wow. its may already
+date: 2011-05-03 18:57:00 Z
 author: jcsimcoe
 comments: true
-date: 2011-05-03 18:57:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2011/05/03/wow-its-may-already/
-slug: wow-its-may-already
-title: wow. its may already
 wordpress_id: 359
 ---
 

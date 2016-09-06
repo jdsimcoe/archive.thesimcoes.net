@@ -1,11 +1,10 @@
 ---
+title: 1 WEEK DOWN!
+date: 2010-03-10 23:28:00 Z
 author: jcsimcoe
 comments: true
-date: 2010-03-10 23:28:00+00:00
 layout: post
 link: https://thesimcoes.wordpress.com/2010/03/10/1-week-down/
-slug: 1-week-down
-title: 1 WEEK DOWN!
 wordpress_id: 441
 ---
 
