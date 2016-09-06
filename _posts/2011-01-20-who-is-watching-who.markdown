@@ -14,12 +14,12 @@ you may think twice before you ask us to watch **_your_** kids…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lfbzy5w2xN1qb8l8q.jpg)
+![](/public/assets/tumblr_lfbzy5w2xN1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lfc0098zD51qb8l8q.jpg)
+![](/public/assets/tumblr_lfc0098zD51qb8l8q.jpg)
 
 
 
@@ -35,17 +35,17 @@ who can fit in the book shelf?!?!?!
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lfc015tB4x1qb8l8q.jpg)
+![](/public/assets/tumblr_lfc015tB4x1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lfc01i4oQG1qb8l8q.jpg)
+![](/public/assets/tumblr_lfc01i4oQG1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lfc01wdDSg1qb8l8q.jpg)
+![](/public/assets/tumblr_lfc01wdDSg1qb8l8q.jpg)
 
 
 
@@ -55,12 +55,12 @@ ooooh! ooooh! let us try!
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lfc02nuswe1qb8l8q.jpg)
+![](/public/assets/tumblr_lfc02nuswe1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lfc035Jtfq1qb8l8q.jpg)
+![](/public/assets/tumblr_lfc035Jtfq1qb8l8q.jpg)
 
 
 

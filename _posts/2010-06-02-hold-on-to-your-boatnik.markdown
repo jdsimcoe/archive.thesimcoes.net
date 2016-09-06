@@ -9,7 +9,7 @@ title: hold on to your boatnik!
 wordpress_id: 426
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_l3d4obRELB1qb8l8q.jpg)
+![](/public/assets/tumblr_l3d4obRELB1qb8l8q.jpg)
 
 
 
@@ -29,7 +29,7 @@ one of our funnest adventures this weekend was a jetboat ride through hellgate c
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l3d27mx62n1qb8l8q.jpg)
+![](/public/assets/tumblr_l3d27mx62n1qb8l8q.jpg)
 
 
 
@@ -39,7 +39,7 @@ good times had by all! 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l3d28pYWFV1qb8l8q.jpg)
+![](/public/assets/tumblr_l3d28pYWFV1qb8l8q.jpg)
 
 
 
@@ -49,4 +49,4 @@ ps… besides the fact that no one really knows what i am doing… where are my 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l3d2dzhZ4Z1qb8l8q.jpg)
+![](/public/assets/tumblr_l3d2dzhZ4Z1qb8l8q.jpg)

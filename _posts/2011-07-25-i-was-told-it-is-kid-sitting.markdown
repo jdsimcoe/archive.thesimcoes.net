@@ -34,27 +34,27 @@ Beyond the crafts, guitar lessons and Icees, we made it out on JJ's boat for a f
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lowprmBDRB1qb8l8q.jpg)
+![](/public/assets/tumblr_lowprmBDRB1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lowprx19Iu1qb8l8q.jpg)
+![](/public/assets/tumblr_lowprx19Iu1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lowpt0Xr0v1qb8l8q.jpg)
+![](/public/assets/tumblr_lowpt0Xr0v1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lowpt9ONIF1qb8l8q.jpg)
+![](/public/assets/tumblr_lowpt9ONIF1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lowpth2ZSb1qb8l8q.jpg)
+![](/public/assets/tumblr_lowpth2ZSb1qb8l8q.jpg)
 
 
 
@@ -64,7 +64,7 @@ We made a fort with the kids… the first night it was basically just a big pile
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lowu8rD16S1qb8l8q.jpg)
+![](/public/assets/tumblr_lowu8rD16S1qb8l8q.jpg)
 
 
 

@@ -14,14 +14,14 @@ not such a baby anymore… we got to take bekah's one year pics a few weeks back
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lbl0nneZhp1qb8l8q.jpg)
+![](/public/assets/tumblr_lbl0nneZhp1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lbl0o20SqU1qb8l8q.jpg)
+![](/public/assets/tumblr_lbl0o20SqU1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lbl0ofQkmx1qb8l8q.jpg)
+![](/public/assets/tumblr_lbl0ofQkmx1qb8l8q.jpg)

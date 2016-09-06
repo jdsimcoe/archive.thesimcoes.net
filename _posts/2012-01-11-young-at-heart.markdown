@@ -14,12 +14,12 @@ last night we had to cancel Bible study due to some nasty colds that we didn't w
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxnjwcMyLi1qb8l8q.jpg)
+![](/public/assets/tumblr_lxnjwcMyLi1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxnjy3v1QD1qb8l8q.jpg)
+![](/public/assets/tumblr_lxnjy3v1QD1qb8l8q.jpg)
 
 
 
@@ -29,7 +29,7 @@ and this is a heart that jonathan made for me:
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxnk33P2Q41qb8l8q.jpg)
+![](/public/assets/tumblr_lxnk33P2Q41qb8l8q.jpg)
 
 
 
@@ -39,7 +39,7 @@ and i tried to draw his initials:
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxnk4mRsDD1qb8l8q.jpg)
+![](/public/assets/tumblr_lxnk4mRsDD1qb8l8q.jpg)
 
 
 
@@ -49,7 +49,7 @@ we decided we are already excited to do this with our kids someday, it was so mu
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxnk95jBMB1qb8l8q.jpg)
+![](/public/assets/tumblr_lxnk95jBMB1qb8l8q.jpg)
 
 
 
@@ -59,4 +59,4 @@ not to mention scrumptious!
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxnkaf5up11qb8l8q.jpg)
+![](/public/assets/tumblr_lxnkaf5up11qb8l8q.jpg)

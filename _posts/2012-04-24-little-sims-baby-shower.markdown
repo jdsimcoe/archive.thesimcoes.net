@@ -14,22 +14,22 @@ No boys allowed! okay… just one…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_m2zp7g6RqT1qb8l8q.jpg)
+![](/public/assets/tumblr_m2zp7g6RqT1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_m2zpb3v8L81qb8l8q.jpg)
+![](/public/assets/tumblr_m2zpb3v8L81qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_m2zpc0pmFB1qb8l8q.jpg)
+![](/public/assets/tumblr_m2zpc0pmFB1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_m2zpdnNYwh1qb8l8q.jpg)
+![](/public/assets/tumblr_m2zpdnNYwh1qb8l8q.jpg)
 
 
 
@@ -39,4 +39,4 @@ but don't worry the boys spoiled themselves as well :)
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_m2zpejzFzM1qb8l8q.jpg)
+![](/public/assets/tumblr_m2zpejzFzM1qb8l8q.jpg)

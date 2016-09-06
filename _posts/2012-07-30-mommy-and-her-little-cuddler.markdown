@@ -11,6 +11,6 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_m7zohpdcq21qbwpqvo1_1280.jpg)
+![](/public/assets/tumblr_m7zohpdcq21qbwpqvo1_1280.jpg)
 
 Mommy and her "little" cuddler!

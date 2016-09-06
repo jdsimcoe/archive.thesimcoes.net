@@ -11,6 +11,6 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_m19dlsbev01qbwpqvo1_1280.jpg)
+![](/public/assets/tumblr_m19dlsbev01qbwpqvo1_1280.jpg)
 
 i still am not totally sure why, but jonathan brought these home the other night. no apparent reason :)

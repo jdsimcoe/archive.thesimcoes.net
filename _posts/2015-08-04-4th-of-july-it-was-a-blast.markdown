@@ -11,7 +11,15 @@ post_format:
 - Gallery
 ---
 
-[gallery]
-
+![image](/public/assets/tumblr_nsktumNbaZ1qbwpqvo2_1280.jpg)
+![image](/public/assets/tumblr_nsktumNbaZ1qbwpqvo3_1280.jpg)
+![image](/public/assets/tumblr_nsktumNbaZ1qbwpqvo6_1280.jpg)
+![image](/public/assets/tumblr_nsktumNbaZ1qbwpqvo4_1280.jpg)
+![image](/public/assets/tumblr_nsktumNbaZ1qbwpqvo5_1280.jpg)
+![image](/public/assets/tumblr_nsktumNbaZ1qbwpqvo9_1280.jpg)
+![image](/public/assets/tumblr_nsktumNbaZ1qbwpqvo7_1280.jpg)
+![image](/public/assets/tumblr_nsktumNbaZ1qbwpqvo10_1280.jpg)
+![image](/public/assets/tumblr_nsktumNbaZ1qbwpqvo1_1280.jpg)
+![image](/public/assets/tumblr_nsktumNbaZ1qbwpqvo8_1280.jpg)
 
 4th of july. it was a blast!

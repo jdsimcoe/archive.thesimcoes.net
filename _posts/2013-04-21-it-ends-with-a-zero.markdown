@@ -19,7 +19,7 @@ we had a wonderful time on my birthday. cinnamon rolls for breakfast, a trip to 
 
 
 
-![image]({{ site.baseurl }}/assets/a5c12ef4623163198633c8c8cced240f/tumblr_inline_mlm888IPqv1qz4rgp.jpg)
+![image](/public/assets/a5c12ef4623163198633c8c8cced240f/tumblr_inline_mlm888IPqv1qz4rgp.jpg)
 
 
 

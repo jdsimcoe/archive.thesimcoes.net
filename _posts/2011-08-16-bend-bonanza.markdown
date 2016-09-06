@@ -14,12 +14,12 @@ There is nothing like a trip to Bend to distract you from the every day weirdnes
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lq13u02onU1qb8l8q.jpg)
+![](/public/assets/tumblr_lq13u02onU1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lq13r4ZmQS1qb8l8q.jpg) 
+![](/public/assets/tumblr_lq13r4ZmQS1qb8l8q.jpg) 
 
 
 
@@ -34,7 +34,7 @@ that evening after dinner we sat outside and roasted s'mores and ate candy… he
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lq13xmdcUo1qb8l8q.jpg)
+![](/public/assets/tumblr_lq13xmdcUo1qb8l8q.jpg)
 
 
 
@@ -44,7 +44,7 @@ Sunday was Corbin's birthday party at the dojo (room in which martial arts are p
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lq144mtv5d1qb8l8q.jpg)
+![](/public/assets/tumblr_lq144mtv5d1qb8l8q.jpg)
 
 
 

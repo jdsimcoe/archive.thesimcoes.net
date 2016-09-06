@@ -9,7 +9,7 @@ title: i do confess...
 wordpress_id: 427
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_l2zxhv6COs1qb8l8q.jpg)
+![](/public/assets/tumblr_l2zxhv6COs1qb8l8q.jpg)
 
 
 

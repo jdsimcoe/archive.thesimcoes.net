@@ -9,7 +9,7 @@ title: Wind Blown Blessing
 wordpress_id: 436
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_l0tsx9AYew1qb8l8q.jpg)
+![](/public/assets/tumblr_l0tsx9AYew1qb8l8q.jpg)
 
 
 
@@ -19,12 +19,12 @@ Life never seems to be dull around here as we are continually faced with unexpec
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l0ttcghEhJ1qb8l8q.jpg)
+![](/public/assets/tumblr_l0ttcghEhJ1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l0tsxrbE9K1qb8l8q.jpg)
+![](/public/assets/tumblr_l0tsxrbE9K1qb8l8q.jpg)
 
 
 
@@ -34,12 +34,12 @@ at eleven only two lifts opened up and we decided that it wouldn't be worth the 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l0tt0wHpfP1qb8l8q.jpg)
+![](/public/assets/tumblr_l0tt0wHpfP1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l0tt1bUAF71qb8l8q.jpg)
+![](/public/assets/tumblr_l0tt1bUAF71qb8l8q.jpg)
 
 
 
@@ -49,7 +49,7 @@ once we got tired of walking up the hill fighting against the wind, we called it
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l0tt28qvJO1qb8l8q.jpg)
+![](/public/assets/tumblr_l0tt28qvJO1qb8l8q.jpg)
 
 
 

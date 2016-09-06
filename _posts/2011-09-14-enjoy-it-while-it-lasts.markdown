@@ -14,24 +14,24 @@ summer that is…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lrj6v2Ygkj1qb8l8q.jpg)
+![](/public/assets/tumblr_lrj6v2Ygkj1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lrj6vs2hZz1qb8l8q.jpg)
+![](/public/assets/tumblr_lrj6vs2hZz1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lrj6xdWfGT1qb8l8q.jpg)
+![](/public/assets/tumblr_lrj6xdWfGT1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lrj6w7kCY61qb8l8q.jpg)
+![](/public/assets/tumblr_lrj6w7kCY61qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lrj6xqX8A01qb8l8q.jpg)
+![](/public/assets/tumblr_lrj6xqX8A01qb8l8q.jpg)

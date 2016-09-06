@@ -19,7 +19,7 @@ so we set out only to find two huge trucks blocking the snow packed road trying 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lcpl62eMIf1qb8l8q.jpg)
+![](/public/assets/tumblr_lcpl62eMIf1qb8l8q.jpg)
 
 
 
@@ -34,12 +34,12 @@ being that we were both concerned with retrieving an evergreen, and my mother ta
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lcplf42uvB1qb8l8q.jpg)
+![](/public/assets/tumblr_lcplf42uvB1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lcplfko53M1qb8l8q.jpg)
+![](/public/assets/tumblr_lcplfko53M1qb8l8q.jpg)
 
 
 
@@ -49,27 +49,27 @@ We deemed it easiest to rope the tree through the windows of the car, which inev
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lcpli7LJYx1qb8l8q.jpg)
+![](/public/assets/tumblr_lcpli7LJYx1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lcplioAxPG1qb8l8q.jpg)
+![](/public/assets/tumblr_lcplioAxPG1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lcpliyz1ah1qb8l8q.jpg)
+![](/public/assets/tumblr_lcpliyz1ah1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lcplj98hTj1qb8l8q.jpg)
+![](/public/assets/tumblr_lcplj98hTj1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lcpljjoviX1qb8l8q.jpg)
+![](/public/assets/tumblr_lcpljjoviX1qb8l8q.jpg)
 
 
 
@@ -79,7 +79,7 @@ we got Pleasebetree [please - be - a - tree] home. we knew he was a big boy, but
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lcplliRDBD1qb8l8q.jpg)
+![](/public/assets/tumblr_lcplliRDBD1qb8l8q.jpg)
 
 
 
@@ -89,4 +89,4 @@ after cutting the tree down to fit in the garage we were finally able to get som
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lcpln40VhK1qb8l8q.jpg)
+![](/public/assets/tumblr_lcpln40VhK1qb8l8q.jpg)

@@ -11,6 +11,6 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_miamhk2aku1qbwpqvo1_1280.jpg)
+![](/public/assets/tumblr_miamhk2aku1qbwpqvo1_1280.jpg)
 
 Is it Summer… err… Spring yet? Swinging with Daddy at the school.

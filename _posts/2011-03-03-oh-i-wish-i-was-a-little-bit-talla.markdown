@@ -9,9 +9,9 @@ title: oh i wish i was a little bit talla...
 wordpress_id: 384
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_lhi6b554wc1qb8l8q.jpg)
+![](/public/assets/tumblr_lhi6b554wc1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lhi6bztIXE1qb8l8q.jpg)
+![](/public/assets/tumblr_lhi6bztIXE1qb8l8q.jpg)

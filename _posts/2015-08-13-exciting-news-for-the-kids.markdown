@@ -11,9 +11,6 @@ post_format:
 - Video
 ---
 
-[vimeo 135776695 w=500 h=281]
-
+<iframe src="https://player.vimeo.com/video/142218766?title=0&amp;byline=0&amp;portrait=0" width="700" height="394" frameborder="0" title="TWO candles!" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" style="width: 100%; height: 394px;"></iframe>
 
 exciting news for the kids!
-
-(Source: [https://player.vimeo.com/](https://player.vimeo.com/))

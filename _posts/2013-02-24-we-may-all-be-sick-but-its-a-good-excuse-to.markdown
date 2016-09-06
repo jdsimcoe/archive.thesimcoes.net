@@ -11,6 +11,6 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_mipj7zspdj1qbwpqvo1_1280.jpg)
+![](/public/assets/tumblr_mipj7zspdj1qbwpqvo1_1280.jpg)
 
 We may all be sick, but it's a good excuse to cuddle together!

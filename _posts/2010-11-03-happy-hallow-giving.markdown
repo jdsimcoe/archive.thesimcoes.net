@@ -14,12 +14,12 @@ nothing says happy hallow-giving like thanksgiving carved pumpkins!
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lba94pmrGL1qb8l8q.jpg)
+![](/public/assets/tumblr_lba94pmrGL1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lba953enyH1qb8l8q.jpg)
+![](/public/assets/tumblr_lba953enyH1qb8l8q.jpg)
 
 
 

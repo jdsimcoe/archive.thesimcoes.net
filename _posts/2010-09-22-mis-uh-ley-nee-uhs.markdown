@@ -19,7 +19,7 @@ after installing the new shed, a dump run was quite necessary, but we learned th
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l95scmzQjR1qb8l8q.jpg)
+![](/public/assets/tumblr_l95scmzQjR1qb8l8q.jpg)
 
 
 
@@ -30,7 +30,7 @@ jonathan was quite excited to go to the dump. he has fond memories of going to t
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l95sd8btnZ1qb8l8q.jpg)
+![](/public/assets/tumblr_l95sd8btnZ1qb8l8q.jpg)
 
 
 
@@ -41,7 +41,7 @@ we also had the opportunity to shoot engagment pics for mike and hannah… edits
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l95seldcqi1qb8l8q.jpg)
+![](/public/assets/tumblr_l95seldcqi1qb8l8q.jpg)
 
 
 
@@ -52,7 +52,7 @@ kelly had her baby shower last weekend which was beautiful and so awesome. After
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l95sgiveoR1qb8l8q.jpg)
+![](/public/assets/tumblr_l95sgiveoR1qb8l8q.jpg)
 
 
 
@@ -68,17 +68,17 @@ i have about a gazillion pictures of this cutie but i'll let barclay post the fu
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l95shis9zM1qb8l8q.jpg)
+![](/public/assets/tumblr_l95shis9zM1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l95sjxVJmq1qb8l8q.jpg)
+![](/public/assets/tumblr_l95sjxVJmq1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l95skeP8Pt1qb8l8q.jpg)
+![](/public/assets/tumblr_l95skeP8Pt1qb8l8q.jpg)
 
 
 
@@ -89,7 +89,7 @@ and just for kicks, here is one of my hunky husband…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l95sm2nWYF1qb8l8q.jpg)
+![](/public/assets/tumblr_l95sm2nWYF1qb8l8q.jpg)
 
 
 

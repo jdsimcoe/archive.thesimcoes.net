@@ -9,7 +9,7 @@ title: happy birthday mamma simcoe!
 wordpress_id: 431
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_l20xp5R08l1qb8l8q.jpg)
+![](/public/assets/tumblr_l20xp5R08l1qb8l8q.jpg)
 
 
 
@@ -19,7 +19,7 @@ Friday night was a blast as we were able to surprise jonathan's mother for her b
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l20xrgzZvQ1qb8l8q.jpg)
+![](/public/assets/tumblr_l20xrgzZvQ1qb8l8q.jpg)
 
 
 
@@ -29,7 +29,7 @@ the evening was so much fun and we gorged ourselves on chips, salsa and mexican 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l20xtdBPhr1qb8l8q.jpg)
+![](/public/assets/tumblr_l20xtdBPhr1qb8l8q.jpg)
 
 
 

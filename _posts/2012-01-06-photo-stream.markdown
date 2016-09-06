@@ -14,17 +14,17 @@ since jonathan got his iPhone for Christmas, i have really enjoyed the photo str
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxec8q06sk1qb8l8q.jpg)
+![](/public/assets/tumblr_lxec8q06sk1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxec9tff991qb8l8q.jpg)
+![](/public/assets/tumblr_lxec9tff991qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxecd3il3p1qb8l8q.jpg)
+![](/public/assets/tumblr_lxecd3il3p1qb8l8q.jpg)
 
 
 

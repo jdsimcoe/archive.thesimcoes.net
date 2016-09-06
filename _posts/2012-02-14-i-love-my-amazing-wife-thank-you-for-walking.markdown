@@ -11,7 +11,7 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_lzedpranep1qbwpqvo1_1280.jpg)
+![](/public/assets/tumblr_lzedpranep1qbwpqvo1_1280.jpg)
 
 I love my amazing wife! :) Thank you for walking with me through life's journey and being willing to follow me wherever the LORD leads! I love you darling!
 

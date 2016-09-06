@@ -19,7 +19,7 @@ dad requested apple pie for his birthday cake, but what is a birthday without a 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lisffoxnTC1qb8l8q.jpg)
+![](/public/assets/tumblr_lisffoxnTC1qb8l8q.jpg)
 
 
 
@@ -29,7 +29,7 @@ he never has any lack of help opening his gifts, i am not sure how we managed to
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lisfhbybDO1qb8l8q.jpg)
+![](/public/assets/tumblr_lisfhbybDO1qb8l8q.jpg)
 
 
 
@@ -39,7 +39,7 @@ here is little ava…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lisflsls0l1qb8l8q.jpg)
+![](/public/assets/tumblr_lisflsls0l1qb8l8q.jpg)
 
 
 
@@ -49,7 +49,7 @@ and of course.. princess callie…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lisfm67pJT1qb8l8q.jpg)
+![](/public/assets/tumblr_lisfm67pJT1qb8l8q.jpg)
 
 
 

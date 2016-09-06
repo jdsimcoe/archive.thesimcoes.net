@@ -10,10 +10,6 @@ wordpress_id: 23
 post_format:
 - Video
 ---
-
-[youtube https://www.youtube.com/watch?v=OLQs7Dq04UE?feature=oembed&enablejsapi=1&origin=http://safe.txmblr.com&wmode=opaque&w;=500&h;=281]
-
+<iframe width="700" height="394" id="youtube_iframe" src="https://www.youtube.com/embed/OLQs7Dq04UE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allowfullscreen="" style="width: 100%; height: 394px;"></iframe>
 
 clearly, it has been a while. Meet the newest miracle of our family.
-
-(Source: [https://www.youtube.com/](https://www.youtube.com/))

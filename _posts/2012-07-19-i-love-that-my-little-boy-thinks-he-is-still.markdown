@@ -11,6 +11,6 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_m7f71l2shx1qbwpqvo1_1280.jpg)
+![](/public/assets/tumblr_m7f71l2shx1qbwpqvo1_1280.jpg)
 
 i love that my little boy thinks he is still "little"… 3 pounds later!

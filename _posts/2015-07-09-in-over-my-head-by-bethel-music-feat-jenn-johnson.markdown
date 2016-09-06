@@ -11,8 +11,4 @@ post_format:
 - Audio
 ---
 
-[audio https://api.soundcloud.com/tracks/191184607/stream?client_id=3cQaPshpEeLqMsNFAUw1Q?plead=please-dont-download-this-or-our-lawyers-wont-let-us-host-audio]
-
-[soundcloud url="https://api.soundcloud.com/tracks/191184607" params="visual=true&liking=false&sharing=false&auto_play=false&show_comments=false&continuous_play=false&origin=tumblr" width="100%" height="500" iframe="true" /]
-
-
+<iframe src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F191184607&amp;visual=true&amp;liking=false&amp;sharing=false&amp;auto_play=false&amp;show_comments=false&amp;continuous_play=false&amp;origin=tumblr" frameborder="0" allowtransparency="true" class="soundcloud_audio_player" width="500" height="500" style="width: 100%; height: 700px;"></iframe>

@@ -11,6 +11,6 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_m08s97zekc1qbwpqvo1_1280.jpg)
+![](/public/assets/tumblr_m08s97zekc1qbwpqvo1_1280.jpg)
 
 Today we had our first birthing class. Jonathan now looks forward to labor because he thinks he is going to sit in the jacuzzi and eat snacks… 

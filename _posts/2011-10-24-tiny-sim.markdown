@@ -11,4 +11,4 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_ltl909ZCzJ1qb8l8q.jpg)
+![](/public/assets/tumblr_ltl909ZCzJ1qb8l8q.jpg)

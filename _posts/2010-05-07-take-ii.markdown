@@ -9,7 +9,7 @@ title: Take II
 wordpress_id: 430
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_l22oz6RcMW1qb8l8q.jpg)
+![](/public/assets/tumblr_l22oz6RcMW1qb8l8q.jpg)
 
 
 
@@ -19,7 +19,7 @@ Well we headed up to the mountain last saturday for a second chance at the mount
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l22p1rb51H1qb8l8q.jpg)
+![](/public/assets/tumblr_l22p1rb51H1qb8l8q.jpg)
 
 
 
@@ -29,7 +29,7 @@ The day started out a bit cold as my pants soaked through and i over esteemed th
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l22p50Yoqh1qb8l8q.jpg)
+![](/public/assets/tumblr_l22p50Yoqh1qb8l8q.jpg)
 
 
 
@@ -39,7 +39,7 @@ however you can see how well my coat fit poor jonathan! ha! i am such a terrible
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l22p6ctBia1qb8l8q.jpg)
+![](/public/assets/tumblr_l22p6ctBia1qb8l8q.jpg)
 
 
 

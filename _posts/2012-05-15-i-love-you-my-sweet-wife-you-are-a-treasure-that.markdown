@@ -11,7 +11,7 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_m438x4bz0m1qbwpqvo1_1280.jpg)
+![](/public/assets/tumblr_m438x4bz0m1qbwpqvo1_1280.jpg)
 
 I love you my sweet wife! You are a treasure that I praise the Lord for.
 

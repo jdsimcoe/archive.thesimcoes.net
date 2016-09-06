@@ -14,7 +14,7 @@ before….
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l9fpw9R0rw1qb8l8q.jpg)
+![](/public/assets/tumblr_l9fpw9R0rw1qb8l8q.jpg)
 
 
 
@@ -24,7 +24,7 @@ after…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l9fpxn0OMs1qb8l8q.jpg)
+![](/public/assets/tumblr_l9fpxn0OMs1qb8l8q.jpg)
 
 
 

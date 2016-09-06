@@ -11,6 +11,6 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_ma003na5dk1qbwpqvo1_1280.jpg)
+![](/public/assets/tumblr_ma003na5dk1qbwpqvo1_1280.jpg)
 
 words not always necessary. just enjoy the beauty.

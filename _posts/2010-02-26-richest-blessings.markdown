@@ -9,7 +9,7 @@ title: Richest Blessings
 wordpress_id: 442
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_l022g23tXH1qb8l8q.jpg)
+![](/public/assets/tumblr_l022g23tXH1qb8l8q.jpg)
 
 Welcome to our new blog site! We are excited to be able share with you the wonderful blessings that the Lord has given us. We have recently just celebrated our first anniversary and can't wait to see what the Lord brings into our life in the years to come.
 

@@ -14,7 +14,7 @@ the last couple of weeks life has been pretty quiet around here. a few colds, a 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_li2mo6anEW1qb8l8q.jpg)
+![](/public/assets/tumblr_li2mo6anEW1qb8l8q.jpg)
 
 
 

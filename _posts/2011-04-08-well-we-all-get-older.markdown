@@ -19,17 +19,17 @@ it was such a blast! my parents got out old videos that we got to watch. the kid
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_ljcfa5Z5eL1qb8l8q.jpg)
+![](/public/assets/tumblr_ljcfa5Z5eL1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_ljcfc3Zr531qb8l8q.jpg)
+![](/public/assets/tumblr_ljcfc3Zr531qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_ljcfcg9L8f1qb8l8q.jpg)
+![](/public/assets/tumblr_ljcfcg9L8f1qb8l8q.jpg)
 
 
 
@@ -39,12 +39,12 @@ the kids played…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_ljcfcuLVAX1qb8l8q.jpg)
+![](/public/assets/tumblr_ljcfcuLVAX1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_ljcfd5Pf2b1qb8l8q.jpg)
+![](/public/assets/tumblr_ljcfd5Pf2b1qb8l8q.jpg)
 
 
 
@@ -54,7 +54,7 @@ and mamacita made an AMAZING **FUNFETTI** cake FROM SCRATCH! hello?! what kind
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_ljcfdkEzG11qb8l8q.jpg)
+![](/public/assets/tumblr_ljcfdkEzG11qb8l8q.jpg)
 
 
 

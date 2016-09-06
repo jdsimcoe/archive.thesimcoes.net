@@ -14,7 +14,7 @@ do you really need an excuse for two cakes and two dozen cupcakes?
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lky7zh8lwy1qb8l8q.jpg)
+![](/public/assets/tumblr_lky7zh8lwy1qb8l8q.jpg)
 
 
 

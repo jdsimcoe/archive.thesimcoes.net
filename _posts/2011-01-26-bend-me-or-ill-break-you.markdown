@@ -9,7 +9,7 @@ title: Bend me or i'll break you.
 wordpress_id: 388
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_lfn69il13q1qb8l8q.jpg)
+![](/public/assets/tumblr_lfn69il13q1qb8l8q.jpg)
 
 
 
@@ -29,22 +29,22 @@ We started the weekend with a trip to the High Desert Museum, where we got to ch
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lfn6g24wtk1qb8l8q.jpg)
+![](/public/assets/tumblr_lfn6g24wtk1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lfn6gg6EWw1qb8l8q.jpg)
+![](/public/assets/tumblr_lfn6gg6EWw1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lfn6h3mUAh1qb8l8q.jpg)
+![](/public/assets/tumblr_lfn6h3mUAh1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lfn6hdH7zg1qb8l8q.jpg)
+![](/public/assets/tumblr_lfn6hdH7zg1qb8l8q.jpg)
 
 
 
@@ -54,7 +54,7 @@ We spent the rest of Saturday going to the movies and relaxing at the house.
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lfn6i4LvlB1qb8l8q.jpg)
+![](/public/assets/tumblr_lfn6i4LvlB1qb8l8q.jpg)
 
 
 
@@ -64,17 +64,17 @@ Sunday we got to go to their Church, Antioch, and spent the afternoon in the par
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lfn6jizok81qb8l8q.jpg)
+![](/public/assets/tumblr_lfn6jizok81qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lfn6jy4Bdr1qb8l8q.jpg)
+![](/public/assets/tumblr_lfn6jy4Bdr1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lfn6kpho2q1qb8l8q.jpg)
+![](/public/assets/tumblr_lfn6kpho2q1qb8l8q.jpg)
 
 
 
@@ -84,7 +84,7 @@ i somehow don't think it is a good idea for adults to ride scooters… but it al
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lfn6lg7Xy11qb8l8q.jpg)
+![](/public/assets/tumblr_lfn6lg7Xy11qb8l8q.jpg)
 
 
 
@@ -94,7 +94,7 @@ we had a blast playing with the kids and giving my brother a break…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lfn6mueRuc1qb8l8q.jpg)
+![](/public/assets/tumblr_lfn6mueRuc1qb8l8q.jpg)
 
 
 
@@ -104,7 +104,7 @@ just kidding, he played with us too :)
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lfn6otLgOL1qb8l8q.jpg)
+![](/public/assets/tumblr_lfn6otLgOL1qb8l8q.jpg)
 
 
 
@@ -114,7 +114,7 @@ Mid-day it was time to head back and I had to pull jonathan from playing legos w
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lfn6vrPaSj1qb8l8q.jpg)
+![](/public/assets/tumblr_lfn6vrPaSj1qb8l8q.jpg)
 
 
 

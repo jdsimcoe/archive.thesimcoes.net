@@ -11,6 +11,6 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_lz428wvw5s1qbwpqvo1_1280.jpg)
+![](/public/assets/tumblr_lz428wvw5s1qbwpqvo1_1280.jpg)
 
 Romans 8:14 (click the image above to download a full-size wallpaper)

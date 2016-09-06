@@ -11,6 +11,6 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_mhf9wddrov1qbwpqvo1_1280.jpg)
+![](/public/assets/tumblr_mhf9wddrov1qbwpqvo1_1280.jpg)
 
 Sweet baby boy. He picked out his sticker and carried all the way to the car before it made it to his mouth :)

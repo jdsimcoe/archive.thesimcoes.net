@@ -9,7 +9,7 @@ title: window shopping
 wordpress_id: 187
 ---
 
-![image]({{ site.baseurl }}/assets/tumblr_melj6eFdBK1qb8l8q.jpg)
+![image](/public/assets/tumblr_melj6eFdBK1qb8l8q.jpg)
 
 
 
@@ -19,17 +19,17 @@ we thought we were prepared for the cold, but didn't even think about the wind. 
 
 
 
-![image]({{ site.baseurl }}/assets/tumblr_mell92Axe61qb8l8q.jpg)
+![image](/public/assets/tumblr_mell92Axe61qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/tumblr_melnkb4X5S1qb8l8q.jpg)
+![image](/public/assets/tumblr_melnkb4X5S1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/tumblr_melnrzAH6H1qb8l8q.jpg)
+![image](/public/assets/tumblr_melnrzAH6H1qb8l8q.jpg)
 
 
 
@@ -39,7 +39,7 @@ we thought we were prepared for the cold, but didn't even think about the wind. 
 
 
 
-![image]({{ site.baseurl }}/assets/tumblr_melnt58cqy1qb8l8q.jpg)
+![image](/public/assets/tumblr_melnt58cqy1qb8l8q.jpg)
 
 
 
@@ -49,17 +49,17 @@ then we got the tree home and decorated it 
 
 
 
-![image]({{ site.baseurl }}/assets/tumblr_memza68vgo1qb8l8q.jpg)
+![image](/public/assets/tumblr_memza68vgo1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/tumblr_memzbhudb51qb8l8q.jpg)
+![image](/public/assets/tumblr_memzbhudb51qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/tumblr_memzd2LPry1qb8l8q.jpg)
+![image](/public/assets/tumblr_memzd2LPry1qb8l8q.jpg)
 
 
 
@@ -69,7 +69,7 @@ btw… we let desider named the tree… he named it "achk."
 
 
 
-![image]({{ site.baseurl }}/assets/tumblr_memzf3pOYb1qb8l8q.jpg)
+![image](/public/assets/tumblr_memzf3pOYb1qb8l8q.jpg)
 
 
 

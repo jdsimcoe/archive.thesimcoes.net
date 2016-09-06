@@ -11,6 +11,6 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_m6vbu6hxxo1qbwpqvo1_1280.jpg)
+![](/public/assets/tumblr_m6vbu6hxxo1qbwpqvo1_1280.jpg)
 
 It's hot in this house!

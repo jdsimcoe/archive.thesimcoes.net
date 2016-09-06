@@ -19,7 +19,7 @@ nothing like a little sushi… love the sushi but don't love the restaurant, so 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_mab1513AgM1qb8l8q.jpg)
+![](/public/assets/tumblr_mab1513AgM1qb8l8q.jpg)
 
 
 
@@ -29,7 +29,7 @@ then topped it off with some yummy yogurt! don't judge me for my toppings!
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_mab18caE171qb8l8q.jpg)
+![](/public/assets/tumblr_mab18caE171qb8l8q.jpg)
 
 
 

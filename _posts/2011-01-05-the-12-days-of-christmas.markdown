@@ -19,7 +19,7 @@ Beginining with a trip to the Oregon Ballet Theater to see Simbro, a trip to wat
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lekok0tVMd1qb8l8q.jpg)
+![](/public/assets/tumblr_lekok0tVMd1qb8l8q.jpg)
 
 
 
@@ -34,7 +34,7 @@ the girls house…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lekol3oHZO1qb8l8q.jpg)
+![](/public/assets/tumblr_lekol3oHZO1qb8l8q.jpg)
 
 
 
@@ -44,7 +44,7 @@ vs. the boys "barn/house on fire"…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lekl3rei8f1qb8l8q.jpg)
+![](/public/assets/tumblr_lekl3rei8f1qb8l8q.jpg)
 
 
 
@@ -54,7 +54,7 @@ Christmas morning we spent at home, just the two of us. yes, jonathan actually d
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lekl5zydjN1qb8l8q.jpg)
+![](/public/assets/tumblr_lekl5zydjN1qb8l8q.jpg)
 
 
 
@@ -64,7 +64,7 @@ we spent Christmas evening with the Bittner side of the family. Here is Jonathan
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lekl7rYa5w1qb8l8q.jpg)
+![](/public/assets/tumblr_lekl7rYa5w1qb8l8q.jpg)
 
 
 
@@ -74,12 +74,12 @@ There is never a dull moment around the Bittner circus… i mean house…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lekor3jcF31qb8l8q.jpg)
+![](/public/assets/tumblr_lekor3jcF31qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lekorwjVDj1qb8l8q.jpg)
+![](/public/assets/tumblr_lekorwjVDj1qb8l8q.jpg)
 
 
 
@@ -89,7 +89,7 @@ The next day we celebrated papa simcoe's birthday and Christmas with the Simcoe 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_leklbfwfQd1qb8l8q.jpg)
+![](/public/assets/tumblr_leklbfwfQd1qb8l8q.jpg)
 
 
 
@@ -99,7 +99,7 @@ and of course built a family pyramid.. i mean, who doesn't do that every Christm
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lekld2essm1qb8l8q.jpg)
+![](/public/assets/tumblr_lekld2essm1qb8l8q.jpg)
 
 
 
@@ -109,7 +109,7 @@ We had a wonderful Christmas. And even though brian swears that the 12 days of C
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lekoslfAqo1qb8l8q.jpg)
+![](/public/assets/tumblr_lekoslfAqo1qb8l8q.jpg)
 
 
 
@@ -119,7 +119,7 @@ and while you are doing that.. what better time of year to clean your gutters…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lekot5xFuB1qb8l8q.jpg)
+![](/public/assets/tumblr_lekot5xFuB1qb8l8q.jpg)
 
 
 

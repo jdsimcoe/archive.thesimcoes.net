@@ -14,7 +14,7 @@ it started out so simply….
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lwmetunLGK1qb8l8q.jpg)
+![](/public/assets/tumblr_lwmetunLGK1qb8l8q.jpg)
 
 
 
@@ -24,7 +24,7 @@ and then "someone" had a "good idea"
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lwmevaBC1T1qb8l8q.jpg)
+![](/public/assets/tumblr_lwmevaBC1T1qb8l8q.jpg)
 
 
 
@@ -34,7 +34,7 @@ we tried to "rein" it back in
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lwmexaMmFR1qb8l8q.jpg)
+![](/public/assets/tumblr_lwmexaMmFR1qb8l8q.jpg)
 
 
 
@@ -44,7 +44,7 @@ but it was too late
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lwmext2J3w1qb8l8q.jpg)
+![](/public/assets/tumblr_lwmext2J3w1qb8l8q.jpg)
 
 
 
@@ -54,7 +54,7 @@ this group is just too out of control :)
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lwmeya7B851qb8l8q.jpg)
+![](/public/assets/tumblr_lwmeya7B851qb8l8q.jpg)
 
 
 

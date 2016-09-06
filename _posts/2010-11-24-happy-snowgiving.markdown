@@ -14,12 +14,12 @@ chicka wha?!?!?
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lcdndbZCL81qb8l8q.jpg)
+![](/public/assets/tumblr_lcdndbZCL81qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lcdndrTMVd1qb8l8q.jpg)
+![](/public/assets/tumblr_lcdndrTMVd1qb8l8q.jpg)
 
 
 

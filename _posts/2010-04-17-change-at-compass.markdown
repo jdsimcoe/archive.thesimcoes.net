@@ -9,7 +9,7 @@ title: Δ at Compass
 wordpress_id: 435
 ---
 
-![image]({{ site.baseurl }}/assets/tumblr_l1005uLx7E1qb8l8q.jpg)
+![image](/public/assets/tumblr_l1005uLx7E1qb8l8q.jpg)
 
 
 These past several weeks have been ones of **Δ** (_a macroscopic change in the value of a variable in mathematics or science_) at Compass (translation: "change"). Times are tough and our company is in a state of transition (translation: "downsizing"). Thankfully (truly, Praise the Lord!) I was not a part of the sizing down and I still have a wonderful job and plenty of work to do. And since no one has been using the corner office (rumor has it that it is haunted by the latter ⅓ of our legal team)… I braved the move and packed up my cube, trading gray walls for glass windows.
@@ -20,7 +20,7 @@ These past several weeks have been ones of **Δ** (_a macroscopic change in th
 Here is another peek:
 
 
-![image]({{ site.baseurl }}/assets/tumblr_l100rkD0fv1qb8l8q.jpg)
+![image](/public/assets/tumblr_l100rkD0fv1qb8l8q.jpg)
 
 
 
@@ -33,7 +33,7 @@ I figured since I have probably at least twice the workload that I previously ha
 One member of the old cubicle space was brave enough to attempt a look over the edge of the building. I sware I thought he was going to jump. Don't worry, Hoofy didn't jump, and the banks on Wall Street can rest easy once again.
 
 
-![image]({{ site.baseurl }}/assets/tumblr_l10107yR781qb8l8q.jpg)
+![image](/public/assets/tumblr_l10107yR781qb8l8q.jpg)
 
 
 
@@ -61,7 +61,7 @@ The very same eternal, all-powerful, majestic and beautiful, God of intense and 
 There is one thing about the old gray cube walls that I miss. Those gray walls have one bright (white) spot. A small whiteboard attached to the fabric walls with pins and two sweet messages from my beautiful wife. One from before we were married and one after. So I took a picture to remind me of her words and the incredible love that she has given me and graces me with every day:
 
 
-![image]({{ site.baseurl }}/assets/tumblr_l101ntwUNn1qb8l8q.jpg)
+![image](/public/assets/tumblr_l101ntwUNn1qb8l8q.jpg)
 
 
 

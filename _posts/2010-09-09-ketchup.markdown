@@ -19,7 +19,7 @@ the weather gave us a bit of a late start for the garden this year but the tomat
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l8i2xhUGVU1qb8l8q.jpg)
+![](/public/assets/tumblr_l8i2xhUGVU1qb8l8q.jpg)
 
 
 
@@ -29,7 +29,7 @@ meanwhile, the shed that you saw in our last post has been successfully destroye
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l8i33duJ2a1qb8l8q.jpg)
+![](/public/assets/tumblr_l8i33duJ2a1qb8l8q.jpg)
 
 
 
@@ -39,7 +39,7 @@ on a slightly less disgusting mood (slightly ;) ), jonathan and i have officiall
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l8i3b1sl2F1qb8l8q.jpg)
+![](/public/assets/tumblr_l8i3b1sl2F1qb8l8q.jpg)
 
 
 

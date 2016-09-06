@@ -11,7 +11,8 @@ post_format:
 - Gallery
 ---
 
-[gallery]
-
+![image](/public/assets/tumblr_nw550gurLA1qbwpqvo1_1280.jpg)
+![image](/public/assets/tumblr_nw550gurLA1qbwpqvo2_1280.jpg)
+![image](/public/assets/tumblr_nw550gurLA1qbwpqvo3_1280.jpg)
 
 its a boy :) a healthy little boy :)

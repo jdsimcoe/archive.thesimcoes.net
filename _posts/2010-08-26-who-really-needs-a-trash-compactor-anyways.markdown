@@ -9,7 +9,7 @@ title: who really needs a trash compactor anyways?
 wordpress_id: 414
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_l7roklBPvC1qb8l8q.jpg)
+![](/public/assets/tumblr_l7roklBPvC1qb8l8q.jpg)
 
 
 

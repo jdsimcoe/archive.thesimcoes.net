@@ -19,7 +19,7 @@ The first week of December was a blast. We got our tree on Thanksgiving day, so 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lw7tb5EKrg1qb8l8q.jpg)
+![](/public/assets/tumblr_lw7tb5EKrg1qb8l8q.jpg)
 
 
 
@@ -29,7 +29,7 @@ I also worked on finishing up costumes for the Christmas pageant. I forced Jonat
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lw7tjv1he71qb8l8q.jpg)
+![](/public/assets/tumblr_lw7tjv1he71qb8l8q.jpg)
 
 
 
@@ -39,7 +39,7 @@ The next week we turned around and headed to my bro's house to watch his kids fo
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lw7tdxfFuF1qb8l8q.jpg)
+![](/public/assets/tumblr_lw7tdxfFuF1qb8l8q.jpg)
 
 
 
@@ -59,7 +59,7 @@ Between the Christmas pageant, babysitting, working on our Christmas cards, Chri
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lwmecp0cFp1qb8l8q.jpg)
+![](/public/assets/tumblr_lwmecp0cFp1qb8l8q.jpg)
 
 
 

@@ -9,7 +9,7 @@ title: AAAAHHHHHHHppy birthday!
 wordpress_id: 424
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_l4kxqvBUD31qb8l8q.jpg)
+![](/public/assets/tumblr_l4kxqvBUD31qb8l8q.jpg)
 
 
 
@@ -24,7 +24,7 @@ Jonathan's birthday was this week, but we managed to make it an extended celebra
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l4kxy91oR81qb8l8q.jpg)
+![](/public/assets/tumblr_l4kxy91oR81qb8l8q.jpg)
 
 
 
@@ -34,7 +34,7 @@ between trips to the train track, abundance of food and lots of laughs, the even
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l4ky3wVGXT1qb8l8q.jpg)
+![](/public/assets/tumblr_l4ky3wVGXT1qb8l8q.jpg)
 
 
 
@@ -54,7 +54,7 @@ if i could have said anything as we were plummeting to the earth i would have sa
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l4kycr8D9F1qb8l8q.jpg)
+![](/public/assets/tumblr_l4kycr8D9F1qb8l8q.jpg)
 
 
 
@@ -69,4 +69,4 @@ i love you jonathan. here is to another, and many more wonderful years!
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l4kyjoxZTU1qb8l8q.jpg)
+![](/public/assets/tumblr_l4kyjoxZTU1qb8l8q.jpg)

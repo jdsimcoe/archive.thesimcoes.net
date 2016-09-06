@@ -24,7 +24,7 @@ Relaxing at DT Fleming:
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lmrfscfwpr1qb8l8q.jpg)
+![](/public/assets/tumblr_lmrfscfwpr1qb8l8q.jpg)
 
 
 
@@ -34,7 +34,7 @@ special little dress up date night:
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lmrfusA6xY1qb8l8q.jpg)
+![](/public/assets/tumblr_lmrfusA6xY1qb8l8q.jpg)
 
 
 
@@ -44,12 +44,12 @@ parasailing! :
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lmrfw8tBOt1qb8l8q.jpg)
+![](/public/assets/tumblr_lmrfw8tBOt1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lmrfwiglgh1qb8l8q.jpg)
+![](/public/assets/tumblr_lmrfwiglgh1qb8l8q.jpg)
 
 
 
@@ -59,7 +59,7 @@ Maui Tacos at sunset:
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lmrfy4KKXq1qb8l8q.jpg)
+![](/public/assets/tumblr_lmrfy4KKXq1qb8l8q.jpg)
 
 
 
@@ -69,17 +69,17 @@ snorkeling at Molokini and Turtle Town:
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lmrfzqkamW1qb8l8q.jpg)
+![](/public/assets/tumblr_lmrfzqkamW1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lmrg03jqbu1qb8l8q.jpg)
+![](/public/assets/tumblr_lmrg03jqbu1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lmrg0e0I8X1qb8l8q.jpg)
+![](/public/assets/tumblr_lmrg0e0I8X1qb8l8q.jpg)
 
 
 
@@ -89,7 +89,7 @@ hawaiian shave ice (yes, shave ice, not shaveD ice):
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lmrg1g5PQY1qb8l8q.jpg)
+![](/public/assets/tumblr_lmrg1g5PQY1qb8l8q.jpg)
 
 
 
@@ -99,7 +99,7 @@ Beach time at Black Rock:
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lmrg4rFn4l1qb8l8q.jpg)
+![](/public/assets/tumblr_lmrg4rFn4l1qb8l8q.jpg)
 
 
 
@@ -109,7 +109,7 @@ Our Favorite Memory was floating on air mattresses in the ocean:
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lmrg5rVnB71qb8l8q.jpg)
+![](/public/assets/tumblr_lmrg5rVnB71qb8l8q.jpg)
 
 
 
@@ -119,7 +119,7 @@ and hello, what better way to end the trip than with sunsets and sushi:
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lmrggm0YpM1qb8l8q.jpg)
+![](/public/assets/tumblr_lmrggm0YpM1qb8l8q.jpg)
 
 
 

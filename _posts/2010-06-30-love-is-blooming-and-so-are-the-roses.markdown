@@ -14,27 +14,27 @@ i have the best husband in the whole world and i love him so much! it is so amaz
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l4uenjr1YZ1qb8l8q.jpg)
+![](/public/assets/tumblr_l4uenjr1YZ1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l4uehug2Ua1qb8l8q.jpg)
+![](/public/assets/tumblr_l4uehug2Ua1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l4ueikfVDL1qb8l8q.jpg)
+![](/public/assets/tumblr_l4ueikfVDL1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l4uek4KRZH1qb8l8q.jpg)
+![](/public/assets/tumblr_l4uek4KRZH1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l4uelgvoAF1qb8l8q.jpg)
+![](/public/assets/tumblr_l4uelgvoAF1qb8l8q.jpg)
 
 
 

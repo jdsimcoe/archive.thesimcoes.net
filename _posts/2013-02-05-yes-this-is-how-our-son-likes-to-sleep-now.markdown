@@ -11,6 +11,6 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_mhqhbuku4j1qbwpqvo1_1280.jpg)
+![](/public/assets/tumblr_mhqhbuku4j1qbwpqvo1_1280.jpg)
 
 Yes. This is how our son likes to sleep now…

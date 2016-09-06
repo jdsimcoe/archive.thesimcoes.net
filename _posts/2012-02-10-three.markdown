@@ -24,22 +24,22 @@ we were able to enjoy the sun on the beach just relaxing, and playing the guitar
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lz5fptwWBI1qb8l8q.jpg)
+![](/public/assets/tumblr_lz5fptwWBI1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lz5ft5vcbW1qb8l8q.jpg)
+![](/public/assets/tumblr_lz5ft5vcbW1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lz5fv6pPRP1qb8l8q.jpg)
+![](/public/assets/tumblr_lz5fv6pPRP1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lz5gxlTOVG1qb8l8q.jpg)
+![](/public/assets/tumblr_lz5gxlTOVG1qb8l8q.jpg)
 
 
 
@@ -49,7 +49,7 @@ he brought the barefoot:
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lz5g8cbklN1qb8l8q.jpg)
+![](/public/assets/tumblr_lz5g8cbklN1qb8l8q.jpg)
 
 
 
@@ -59,7 +59,7 @@ i brought the pregnant:
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lz5ga3qh2i1qb8l8q.jpg)
+![](/public/assets/tumblr_lz5ga3qh2i1qb8l8q.jpg)
 
 
 
@@ -69,7 +69,7 @@ we also attempted a sand castle…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lz5gkwK2f71qb8l8q.jpg)
+![](/public/assets/tumblr_lz5gkwK2f71qb8l8q.jpg)
 
 
 
@@ -79,7 +79,7 @@ as you can see, "attempted" is a key word here.
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lz5gib2B9i1qb8l8q.jpg)
+![](/public/assets/tumblr_lz5gib2B9i1qb8l8q.jpg)
 
 
 
@@ -89,17 +89,17 @@ On our actual anniversary we took a long walk on the beach, went to dinner and w
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lz5jogrk3N1qb8l8q.jpg)
+![](/public/assets/tumblr_lz5jogrk3N1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lz5gvtOUCZ1qb8l8q.jpg)
+![](/public/assets/tumblr_lz5gvtOUCZ1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lz5ijvpEc01qb8l8q.jpg)
+![](/public/assets/tumblr_lz5ijvpEc01qb8l8q.jpg)
 
 
 
@@ -109,17 +109,17 @@ and believe it or not, the moon was bright enough that these pics were taken wit
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lz5if7RLnG1qb8l8q.jpg)
+![](/public/assets/tumblr_lz5if7RLnG1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lz5ighanmH1qb8l8q.jpg)
+![](/public/assets/tumblr_lz5ighanmH1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lz5ih4bFHt1qb8l8q.jpg)
+![](/public/assets/tumblr_lz5ih4bFHt1qb8l8q.jpg)
 
 
 
@@ -129,7 +129,7 @@ before we left we took one last walk on the beach. jonathan has been looking for
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lz5iyy11pE1qb8l8q.jpg)
+![](/public/assets/tumblr_lz5iyy11pE1qb8l8q.jpg)
 
 
 
@@ -149,4 +149,4 @@ i love my sweet husband so much and cherish every minute that i have with him. h
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lz5fwd1xmd1qb8l8q.jpg)
+![](/public/assets/tumblr_lz5fwd1xmd1qb8l8q.jpg)

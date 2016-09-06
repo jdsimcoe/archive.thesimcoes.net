@@ -14,4 +14,4 @@ Pics from bekah's 2nd bday party are on its way… but here is also a teaser to 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lrvzzowTBv1qb8l8q.jpg)
+![](/public/assets/tumblr_lrvzzowTBv1qb8l8q.jpg)

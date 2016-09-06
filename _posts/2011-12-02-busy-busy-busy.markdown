@@ -19,12 +19,12 @@ the month began with a baby shower for barclay and it was a blast. unfortunately
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lvl1xeg0ai1qb8l8q.jpg)
+![](/public/assets/tumblr_lvl1xeg0ai1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lvl21h9nI81qb8l8q.jpg)
+![](/public/assets/tumblr_lvl21h9nI81qb8l8q.jpg)
 
 
 
@@ -44,17 +44,17 @@ Thanksgiving morning we went and cut down our tree in the woods:
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lvl2u23d5n1qb8l8q.jpg)
+![](/public/assets/tumblr_lvl2u23d5n1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lvl2t2bZBd1qb8l8q.jpg)
+![](/public/assets/tumblr_lvl2t2bZBd1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lvl2uebTKt1qb8l8q.jpg)
+![](/public/assets/tumblr_lvl2uebTKt1qb8l8q.jpg)
 
 
 
@@ -64,7 +64,7 @@ Then we had thanksgiving dinner bittner style.. lots of food…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lvl2vphqhi1qb8l8q.jpg)
+![](/public/assets/tumblr_lvl2vphqhi1qb8l8q.jpg)
 
 
 
@@ -74,7 +74,7 @@ and lots of love.. ha!
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lvl2w3DqJH1qb8l8q.jpg)
+![](/public/assets/tumblr_lvl2w3DqJH1qb8l8q.jpg)
 
 
 
@@ -84,17 +84,17 @@ the next day was a double blessing… the birth of our niece madeline joy and ge
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lvl2xkWpth1qb8l8q.jpg)
+![](/public/assets/tumblr_lvl2xkWpth1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lvl2xsMTrH1qb8l8q.jpg)
+![](/public/assets/tumblr_lvl2xsMTrH1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lvl3fcBXFU1qb8l8q.jpg)
+![](/public/assets/tumblr_lvl3fcBXFU1qb8l8q.jpg)
 
 
 
@@ -104,32 +104,32 @@ and the first kiss:
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lvl3fscYAz1qb8l8q.jpg)
+![](/public/assets/tumblr_lvl3fscYAz1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lvl3gbbs9o1qb8l8q.jpg)
+![](/public/assets/tumblr_lvl3gbbs9o1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lvl3gkgpVi1qb8l8q.jpg)
+![](/public/assets/tumblr_lvl3gkgpVi1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lvl3gynJSz1qb8l8q.jpg)
+![](/public/assets/tumblr_lvl3gynJSz1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lvl3h98FKV1qb8l8q.jpg)
+![](/public/assets/tumblr_lvl3h98FKV1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lvl3hlfj9l1qb8l8q.jpg)
+![](/public/assets/tumblr_lvl3hlfj9l1qb8l8q.jpg)
 
 
 

@@ -11,29 +11,29 @@ wordpress_id: 67
 
 Today is my due date. Our precious Quinlan should have been here or nearly here by now. We should be bringing him home to meet his brother and sister. But instead we sit with tears in our eyes and holes in our hearts, slowly being mended by our Creator who knows best and mends best.
 
-![image]({{ site.baseurl }}/assets/0f46876eb32fdf81b3fbd1f320559013/tumblr_inline_nkzeh0iFMw1qb8l8q.jpg)
+![image](/public/assets/0f46876eb32fdf81b3fbd1f320559013/tumblr_inline_nkzeh0iFMw1qb8l8q.jpg)
 
 My Dear Sweet Quinlan,
 
 How we planned for you,
 
-![image]({{ site.baseurl }}/assets/68f8425844593f3b35801c665fd9c1ce/tumblr_inline_nkzek9f8zY1qb8l8q.jpg)
+![image](/public/assets/68f8425844593f3b35801c665fd9c1ce/tumblr_inline_nkzek9f8zY1qb8l8q.jpg)
 
 How we love you,
 
-![image]({{ site.baseurl }}/assets/50f865dfbbdcf795e989223cce968fea/tumblr_inline_nkzej2HRBS1qb8l8q.jpg)
+![image](/public/assets/50f865dfbbdcf795e989223cce968fea/tumblr_inline_nkzej2HRBS1qb8l8q.jpg)
 
 How we miss you so deeply.
 
-![image]({{ site.baseurl }}/assets/3be61aaa6873c7215341c426e443a7ec/tumblr_inline_nkzel8wiRo1qb8l8q.jpg)
+![image](/public/assets/3be61aaa6873c7215341c426e443a7ec/tumblr_inline_nkzel8wiRo1qb8l8q.jpg)
 
 Our lives will never be the same without you.
 
-![image]({{ site.baseurl }}/assets/6ec0eefcbe56aafeaeb3def6b511ac2d/tumblr_inline_nkzem8RhAA1qb8l8q.jpg)
+![image](/public/assets/6ec0eefcbe56aafeaeb3def6b511ac2d/tumblr_inline_nkzem8RhAA1qb8l8q.jpg)
 
 You have marked our hearts and our lives forever.
 
-![image]({{ site.baseurl }}/assets/e49d667f824fcc19d19971da143b6d99/tumblr_inline_nkzeob5D8K1qb8l8q.jpg)
+![image](/public/assets/e49d667f824fcc19d19971da143b6d99/tumblr_inline_nkzeob5D8K1qb8l8q.jpg)
 
 We will never forget you.
 

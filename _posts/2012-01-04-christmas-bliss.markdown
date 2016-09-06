@@ -19,12 +19,12 @@ Christmas morning we spent at home together… enjoying cinnamon rolls, the Word
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxabkiVVro1qb8l8q.jpg)
+![](/public/assets/tumblr_lxabkiVVro1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxabktye421qb8l8q.jpg)
+![](/public/assets/tumblr_lxabktye421qb8l8q.jpg)
 
 
 
@@ -34,42 +34,42 @@ Later Christmas Day we headed to Grants Pass to spend a few days with Jonathan's
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxabxi0lXB1qb8l8q.jpg)
+![](/public/assets/tumblr_lxabxi0lXB1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxabxsXZEh1qb8l8q.jpg)
+![](/public/assets/tumblr_lxabxsXZEh1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxaby3h3VN1qb8l8q.jpg)
+![](/public/assets/tumblr_lxaby3h3VN1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxabykJg901qb8l8q.jpg)
+![](/public/assets/tumblr_lxabykJg901qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxabyyD1Gz1qb8l8q.jpg)
+![](/public/assets/tumblr_lxabyyD1Gz1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxabzeImrO1qb8l8q.jpg)
+![](/public/assets/tumblr_lxabzeImrO1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxabzsQSsD1qb8l8q.jpg)
+![](/public/assets/tumblr_lxabzsQSsD1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxac03MGhT1qb8l8q.jpg)
+![](/public/assets/tumblr_lxac03MGhT1qb8l8q.jpg)
 
 
 

@@ -9,7 +9,7 @@ title: YAY FOR ROUND 2!
 wordpress_id: 145
 ---
 
-![]({{ site.baseurl }}/assets/ee7a6781abe5ccd04bf37f80453c6528/tumblr_inline_miygytDUQ61qz4rgp.jpg)
+![](/public/assets/ee7a6781abe5ccd04bf37f80453c6528/tumblr_inline_miygytDUQ61qz4rgp.jpg)
 
 
 

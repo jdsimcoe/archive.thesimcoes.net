@@ -19,7 +19,7 @@ the zoo is fun even when it is cold outside
 
 
 
-![image]({{ site.baseurl }}/assets/ca5339c851c5e5a9e91fc9cb7331c7fc/tumblr_inline_n7gan522EV1qb8l8q.jpg)
+![image](/public/assets/ca5339c851c5e5a9e91fc9cb7331c7fc/tumblr_inline_n7gan522EV1qb8l8q.jpg)
 
 
 
@@ -29,7 +29,7 @@ but otherwise we have toy box races around the living room,
 
 
 
-![image]({{ site.baseurl }}/assets/5db559de8f57b5c61955071b44fbc8aa/tumblr_inline_n7gapc2Zbr1qb8l8q.jpg)
+![image](/public/assets/5db559de8f57b5c61955071b44fbc8aa/tumblr_inline_n7gapc2Zbr1qb8l8q.jpg)
 
 
 
@@ -39,7 +39,7 @@ read books,
 
 
 
-![image]({{ site.baseurl }}/assets/1de72e82b13d034bea15ebf8cb8cbedd/tumblr_inline_n7gatuydVG1qb8l8q.jpg)
+![image](/public/assets/1de72e82b13d034bea15ebf8cb8cbedd/tumblr_inline_n7gatuydVG1qb8l8q.jpg)
 
 
 
@@ -50,7 +50,7 @@ cuddle,
 
 
 
-![image]({{ site.baseurl }}/assets/8a237e4ddf1859f3427d82e4d36d3cf8/tumblr_inline_n7gaudo1Sm1qb8l8q.jpg)
+![image](/public/assets/8a237e4ddf1859f3427d82e4d36d3cf8/tumblr_inline_n7gaudo1Sm1qb8l8q.jpg)
 
 
 
@@ -61,7 +61,7 @@ or have chugging contests.
 
 
 
-![image]({{ site.baseurl }}/assets/513a7220fc8910abb56f983c78c21b9a/tumblr_inline_n7gaqq4CRQ1qb8l8q.jpg)
+![image](/public/assets/513a7220fc8910abb56f983c78c21b9a/tumblr_inline_n7gaqq4CRQ1qb8l8q.jpg)
 
 
 
@@ -72,27 +72,27 @@ Occasionally the sun would come out
 
 
 
-![image]({{ site.baseurl }}/assets/53c91c6d21eb5aa1632b88093fcaa63d/tumblr_inline_n7garzKWPu1qb8l8q.jpg)
+![image](/public/assets/53c91c6d21eb5aa1632b88093fcaa63d/tumblr_inline_n7garzKWPu1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/908767972ccd820933cc7cf60d0062b3/tumblr_inline_n7gas3BUwK1qb8l8q.jpg)
+![image](/public/assets/908767972ccd820933cc7cf60d0062b3/tumblr_inline_n7gas3BUwK1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/d6123d42e250cdc7cc66312e5d3a5e58/tumblr_inline_n7gas9UadK1qb8l8q.jpg)
+![image](/public/assets/d6123d42e250cdc7cc66312e5d3a5e58/tumblr_inline_n7gas9UadK1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/d3644679b783970c72742e70b8e480ce/tumblr_inline_n7gasc0fK61qb8l8q.jpg)
+![image](/public/assets/d3644679b783970c72742e70b8e480ce/tumblr_inline_n7gasc0fK61qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/bd881e9a55c47d7d14fc4853bec5f2bb/tumblr_inline_n7gayuTCGJ1qb8l8q.jpg)
+![image](/public/assets/bd881e9a55c47d7d14fc4853bec5f2bb/tumblr_inline_n7gayuTCGJ1qb8l8q.jpg)
 
 
 
@@ -103,7 +103,7 @@ or we would need to take trips to the grocery store.
 
 
 
-![image]({{ site.baseurl }}/assets/6978faec18b88cb72b7244c9fd87316f/tumblr_inline_n7gaww022b1qb8l8q.jpg)
+![image](/public/assets/6978faec18b88cb72b7244c9fd87316f/tumblr_inline_n7gaww022b1qb8l8q.jpg)
 
 
 
@@ -113,7 +113,7 @@ Naps are always good.
 
 
 
-![image]({{ site.baseurl }}/assets/a588d36075a3a1a8344dddb948688fd9/tumblr_inline_n7gb35ajjd1qb8l8q.jpg)
+![image](/public/assets/a588d36075a3a1a8344dddb948688fd9/tumblr_inline_n7gb35ajjd1qb8l8q.jpg)
 
 
 
@@ -124,17 +124,17 @@ just make sure you put them in their own beds!
 
 
 
-![image]({{ site.baseurl }}/assets/deda9f557af066c23cb78b93d79949c0/tumblr_inline_n7gb5vb8td1qb8l8q.jpg)
+![image](/public/assets/deda9f557af066c23cb78b93d79949c0/tumblr_inline_n7gb5vb8td1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/d2fcc3b3452d2531f995354856834a07/tumblr_inline_n7gb5wHfoE1qb8l8q.jpg)
+![image](/public/assets/d2fcc3b3452d2531f995354856834a07/tumblr_inline_n7gb5wHfoE1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/b9fd2b649c7c158caffafb5d459725e8/tumblr_inline_n7gb622KqD1qb8l8q.jpg)
+![image](/public/assets/b9fd2b649c7c158caffafb5d459725e8/tumblr_inline_n7gb622KqD1qb8l8q.jpg)
 
 
 
@@ -145,17 +145,17 @@ We were thrilled when Easter came and we got to teach our kids about new life in
 
 
 
-![image]({{ site.baseurl }}/assets/f29a4c20b7470b83088d480b6fed36bb/tumblr_inline_n7gba67LZm1qb8l8q.jpg)
+![image](/public/assets/f29a4c20b7470b83088d480b6fed36bb/tumblr_inline_n7gba67LZm1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/a5d55d74cdd3aab6eea85657c04d017f/tumblr_inline_n7gba9vW0M1qb8l8q.jpg)
+![image](/public/assets/a5d55d74cdd3aab6eea85657c04d017f/tumblr_inline_n7gba9vW0M1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/e6cf939c0a1ac77f3504d2230a3a9ecb/tumblr_inline_n7gbanlfAI1qb8l8q.jpg)
+![image](/public/assets/e6cf939c0a1ac77f3504d2230a3a9ecb/tumblr_inline_n7gbanlfAI1qb8l8q.jpg)
 
 
 
@@ -165,7 +165,7 @@ Easter morning Desider acted out being Jesus, laying in the tomb..
 
 
 
-![image]({{ site.baseurl }}/assets/58a20a0ee82cd082aa122ccf0ba6185d/tumblr_inline_n7gbaumSbo1qb8l8q.jpg)
+![image](/public/assets/58a20a0ee82cd082aa122ccf0ba6185d/tumblr_inline_n7gbaumSbo1qb8l8q.jpg)
 
 
 
@@ -175,7 +175,7 @@ And Doxi played Mary coming to find the tomb empty!
 
 
 
-![image]({{ site.baseurl }}/assets/e1c08d5b138c69453879c5dd37559dcc/tumblr_inline_n7gbb05ETK1qb8l8q.jpg)
+![image](/public/assets/e1c08d5b138c69453879c5dd37559dcc/tumblr_inline_n7gbb05ETK1qb8l8q.jpg)
 
 
 
@@ -185,17 +185,17 @@ But her basket wasn't empty! It was full of LIFE!
 
 
 
-![image]({{ site.baseurl }}/assets/80aacd4eb6b8acd4d6c2a21541496320/tumblr_inline_n7gbb6YnaA1qb8l8q.jpg)
+![image](/public/assets/80aacd4eb6b8acd4d6c2a21541496320/tumblr_inline_n7gbb6YnaA1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/9c768893159478a71d017cc315964e1c/tumblr_inline_n7gbbbL0PB1qb8l8q.jpg)
+![image](/public/assets/9c768893159478a71d017cc315964e1c/tumblr_inline_n7gbbbL0PB1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/84e610c8e7ab7e03fe9678702d8c16c7/tumblr_inline_n7gbbmnAls1qb8l8q.jpg)
+![image](/public/assets/84e610c8e7ab7e03fe9678702d8c16c7/tumblr_inline_n7gbbmnAls1qb8l8q.jpg)
 
 
 
@@ -205,17 +205,17 @@ Church at Mars Hill Portland with Papa and Nonna
 
 
 
-![image]({{ site.baseurl }}/assets/900b316cae30c62eda88d148d9ea71a9/tumblr_inline_n7gbhjPrz81qb8l8q.jpg)
+![image](/public/assets/900b316cae30c62eda88d148d9ea71a9/tumblr_inline_n7gbhjPrz81qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/72841c8901fb1582e0f8d5adb7c1bd22/tumblr_inline_n7gbhjWRBP1qb8l8q.jpg)
+![image](/public/assets/72841c8901fb1582e0f8d5adb7c1bd22/tumblr_inline_n7gbhjWRBP1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/7de788dcc58e6883cf8c91a0562530c3/tumblr_inline_n7gbhktE6w1qb8l8q.jpg)
+![image](/public/assets/7de788dcc58e6883cf8c91a0562530c3/tumblr_inline_n7gbhktE6w1qb8l8q.jpg)
 
 
 
@@ -226,17 +226,17 @@ Easter egg hunt at Grumpy and Grandmommy's house
 
 
 
-![image]({{ site.baseurl }}/assets/870e2b32276d17a51eabd0a4895f608b/tumblr_inline_n7gbbtHIMN1qb8l8q.jpg)
+![image](/public/assets/870e2b32276d17a51eabd0a4895f608b/tumblr_inline_n7gbbtHIMN1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/64f86c132686cfa8e0d844a69e57b7cb/tumblr_inline_n7gbbzemEk1qb8l8q.jpg)
+![image](/public/assets/64f86c132686cfa8e0d844a69e57b7cb/tumblr_inline_n7gbbzemEk1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/71ce089547c3a6614a97c96f12a7776a/tumblr_inline_n7gbc57jHP1qb8l8q.jpg)
+![image](/public/assets/71ce089547c3a6614a97c96f12a7776a/tumblr_inline_n7gbc57jHP1qb8l8q.jpg)
 
 
 
@@ -246,7 +246,7 @@ The kids stay very busy with music
 
 
 
-![image]({{ site.baseurl }}/assets/182caea6971fca6f32afe10ae2ee4d46/tumblr_inline_n7gbjmlYVx1qb8l8q.jpg)
+![image](/public/assets/182caea6971fca6f32afe10ae2ee4d46/tumblr_inline_n7gbjmlYVx1qb8l8q.jpg)
 
 
 
@@ -256,7 +256,7 @@ and coloring,
 
 
 
-![image]({{ site.baseurl }}/assets/2b0ddd225f0544dcb3dbcbf0531f7cac/tumblr_inline_n7gbkeAGeT1qb8l8q.jpg)
+![image](/public/assets/2b0ddd225f0544dcb3dbcbf0531f7cac/tumblr_inline_n7gbkeAGeT1qb8l8q.jpg)
 
 
 
@@ -266,7 +266,7 @@ and steeling my iPhone…
 
 
 
-![image]({{ site.baseurl }}/assets/3446bf77753c36959240ea652e5455e0/tumblr_inline_n7gc1y3tWz1qb8l8q.jpg)
+![image](/public/assets/3446bf77753c36959240ea652e5455e0/tumblr_inline_n7gc1y3tWz1qb8l8q.jpg)
 
 
 
@@ -277,52 +277,52 @@ and they love to play outside!
 
 
 
-![image]({{ site.baseurl }}/assets/2a719095f9c67d84ac74a6a5ac93b1a2/tumblr_inline_n7gbmjC2901qb8l8q.jpg)
+![image](/public/assets/2a719095f9c67d84ac74a6a5ac93b1a2/tumblr_inline_n7gbmjC2901qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/551e0fbcb96a1c61de4c83ed8bd2eab6/tumblr_inline_n7gbmq2IAR1qb8l8q.jpg)
+![image](/public/assets/551e0fbcb96a1c61de4c83ed8bd2eab6/tumblr_inline_n7gbmq2IAR1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/a75cdf6eb26a1260b481b1445af0a428/tumblr_inline_n7gbn5b9Qx1qb8l8q.jpg)
+![image](/public/assets/a75cdf6eb26a1260b481b1445af0a428/tumblr_inline_n7gbn5b9Qx1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/17b476842043f42282f8a8b2f39f7d44/tumblr_inline_n7gbnffr6W1qb8l8q.jpg)
+![image](/public/assets/17b476842043f42282f8a8b2f39f7d44/tumblr_inline_n7gbnffr6W1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/92dd882a95916958fc5034bf198c8fe8/tumblr_inline_n7gbnyyAqi1qb8l8q.jpg)
+![image](/public/assets/92dd882a95916958fc5034bf198c8fe8/tumblr_inline_n7gbnyyAqi1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/8116398add60cb18c50721e77caa336d/tumblr_inline_n7gbob7KWx1qb8l8q.jpg)
+![image](/public/assets/8116398add60cb18c50721e77caa336d/tumblr_inline_n7gbob7KWx1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/7ae2eebd448c29fc467e315f41c06ec9/tumblr_inline_n7gbooplBU1qb8l8q.jpg)
+![image](/public/assets/7ae2eebd448c29fc467e315f41c06ec9/tumblr_inline_n7gbooplBU1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/b71e7985210441464fc6d360356bfb55/tumblr_inline_n7gbswaZnW1qb8l8q.jpg)
+![image](/public/assets/b71e7985210441464fc6d360356bfb55/tumblr_inline_n7gbswaZnW1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/71eef33c28ffeed42382909ce0e7c881/tumblr_inline_n7gbsxaA041qb8l8q.jpg)
+![image](/public/assets/71eef33c28ffeed42382909ce0e7c881/tumblr_inline_n7gbsxaA041qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/874a45587a58ea4b5fadbc4881c414c5/tumblr_inline_n7gbt7F9XL1qb8l8q.jpg)
+![image](/public/assets/874a45587a58ea4b5fadbc4881c414c5/tumblr_inline_n7gbt7F9XL1qb8l8q.jpg)
 
 
 
@@ -332,17 +332,17 @@ They did a great job traveling to see Papa and Nonna.
 
 
 
-![image]({{ site.baseurl }}/assets/4ae3ff9d8eb49144d58a85affb454759/tumblr_inline_n7gbuzCHdo1qb8l8q.jpg)
+![image](/public/assets/4ae3ff9d8eb49144d58a85affb454759/tumblr_inline_n7gbuzCHdo1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/8ad1941a668cae2f201aa13e55765ea7/tumblr_inline_n7gbv6Igvn1qb8l8q.jpg)
+![image](/public/assets/8ad1941a668cae2f201aa13e55765ea7/tumblr_inline_n7gbv6Igvn1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/de41b60cd856e47c2dffbfa192cfe757/tumblr_inline_n7gbvcU3dx1qb8l8q.jpg)
+![image](/public/assets/de41b60cd856e47c2dffbfa192cfe757/tumblr_inline_n7gbvcU3dx1qb8l8q.jpg)
 
 
 
@@ -353,27 +353,27 @@ But every day we cherish our time with our kids
 
 
 
-![image]({{ site.baseurl }}/assets/461896702cbf92e45caa792677199b2c/tumblr_inline_n7gbz3k35A1qb8l8q.jpg)
+![image](/public/assets/461896702cbf92e45caa792677199b2c/tumblr_inline_n7gbz3k35A1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/ef26932c5a2826e03f3a7f3bd3277fb4/tumblr_inline_n7gbz3aqnF1qb8l8q.jpg)
+![image](/public/assets/ef26932c5a2826e03f3a7f3bd3277fb4/tumblr_inline_n7gbz3aqnF1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/6acb958f544d10a134a2b65c0048412e/tumblr_inline_n7gbzds3K61qb8l8q.jpg)
+![image](/public/assets/6acb958f544d10a134a2b65c0048412e/tumblr_inline_n7gbzds3K61qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/982785ffc0886d0fb4718f099828d773/tumblr_inline_n7gbzkYzwx1qb8l8q.jpg)
+![image](/public/assets/982785ffc0886d0fb4718f099828d773/tumblr_inline_n7gbzkYzwx1qb8l8q.jpg)
 
 
 
 
-![image]({{ site.baseurl }}/assets/e263c721c276055fa70b3305f2ed58ab/tumblr_inline_n7gbztKYp11qb8l8q.jpg)
+![image](/public/assets/e263c721c276055fa70b3305f2ed58ab/tumblr_inline_n7gbztKYp11qb8l8q.jpg)
 
 
 
@@ -383,7 +383,7 @@ and our time as a family.
 
 
 
-![image]({{ site.baseurl }}/assets/053307c756e2a24f70841259636eca07/tumblr_inline_n7gc060BBX1qb8l8q.jpg)
+![image](/public/assets/053307c756e2a24f70841259636eca07/tumblr_inline_n7gc060BBX1qb8l8q.jpg)
 
 
 
@@ -393,7 +393,7 @@ even when this is the best family picture we can get!
 
 
 
-![image]({{ site.baseurl }}/assets/124039051baf46e7b0b9c9ae92a8338e/tumblr_inline_n7gc0jz8BP1qb8l8q.jpg)
+![image](/public/assets/124039051baf46e7b0b9c9ae92a8338e/tumblr_inline_n7gc0jz8BP1qb8l8q.jpg)
 
 
 

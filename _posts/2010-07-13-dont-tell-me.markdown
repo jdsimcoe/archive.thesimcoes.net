@@ -12,12 +12,12 @@ wordpress_id: 421
 don't tell me we are too serious to dance…
 
 
-![]({{ site.baseurl }}/assets/tumblr_l5imgy4uW61qb8l8q.jpg)
+![](/public/assets/tumblr_l5imgy4uW61qb8l8q.jpg)
 
 
 or that sugar is always bad for you.
 
-![]({{ site.baseurl }}/assets/tumblr_l5imi7gbjU1qb8l8q.jpg)
+![](/public/assets/tumblr_l5imi7gbjU1qb8l8q.jpg)
 
 
 
@@ -27,7 +27,7 @@ don't tell me that you can't fly…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l5immk74rM1qb8l8q.jpg)
+![](/public/assets/tumblr_l5immk74rM1qb8l8q.jpg)
 
 
 
@@ -37,7 +37,7 @@ or that you can't play like a kid.
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l5imqcb6xH1qb8l8q.jpg)
+![](/public/assets/tumblr_l5imqcb6xH1qb8l8q.jpg)
 
 
 
@@ -47,7 +47,7 @@ don't tell me a tire around your waist is always a bad thing…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l5imsfj4DJ1qb8l8q.jpg)
+![](/public/assets/tumblr_l5imsfj4DJ1qb8l8q.jpg)
 
 
 
@@ -57,7 +57,7 @@ or that you are too old to have fun.
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l5imtmmNZW1qb8l8q.jpg)
+![](/public/assets/tumblr_l5imtmmNZW1qb8l8q.jpg)
 
 
 
@@ -67,4 +67,4 @@ definitely don't tell me that spending your whole life with your best friend EVE
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l5imv9IeSU1qb8l8q.jpg)
+![](/public/assets/tumblr_l5imv9IeSU1qb8l8q.jpg)

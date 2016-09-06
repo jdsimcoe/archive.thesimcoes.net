@@ -9,7 +9,7 @@ title: NMG retreat
 wordpress_id: 428
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_l2krx82MsA1qb8l8q.jpg)
+![](/public/assets/tumblr_l2krx82MsA1qb8l8q.jpg)
 
 
 
@@ -19,7 +19,7 @@ so… i guess we have officially graduated. this fall we began a Bible study for
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l2kruwbEAm1qb8l8q.jpg)
+![](/public/assets/tumblr_l2kruwbEAm1qb8l8q.jpg)
 
 
 
@@ -29,7 +29,7 @@ Dustin and Erinn were able to sneak in a nap on the beach but every time jonatha
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l2ks0oZf101qb8l8q.jpg)
+![](/public/assets/tumblr_l2ks0oZf101qb8l8q.jpg)
 
 
 
@@ -39,4 +39,4 @@ although we may have "graduated" and no longer be part of the "newly married gro
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l2krz0RB031qb8l8q.jpg)
+![](/public/assets/tumblr_l2krz0RB031qb8l8q.jpg)

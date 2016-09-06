@@ -11,7 +11,8 @@ post_format:
 - Gallery
 ---
 
-[gallery]
-
+![image](/public/assets/tumblr_o8xf1p4rnA1qbwpqvo1_1280.jpg)
+![image](/public/assets/tumblr_o8xf1p4rnA1qbwpqvo2_1280.jpg)
+![image](/public/assets/tumblr_o8xf1p4rnA1qbwpqvo3_1280.jpg)
 
 the little joys 

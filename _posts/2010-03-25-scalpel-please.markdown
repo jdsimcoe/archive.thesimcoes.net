@@ -9,7 +9,7 @@ title: scalpel please...
 wordpress_id: 440
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_l022qhcCI81qb8l8q.jpg)
+![](/public/assets/tumblr_l022qhcCI81qb8l8q.jpg)
 
 The adventures of marriage and stay at homedom with my husband continue to surprise me! in good ways of course! Here you will find that jonathan is practicing his surgical techniques in our home office! what?!!? well kindof. If anyone knows jonathan, they know that he can be a little "particular" about his Bibles (and by particular, i mean anal :) ). Here he is actually cutting down the edges of his bible and finishing them with tape so as to have the "perfect fit" into his leather cover. Hahah, a good idea i admit, but when he has in his mind to do something, he is going to do it! Soon we will probably be raising cows in our suburb back yard, just to have leather on hand incase an incident should occur :)
 
@@ -17,11 +17,11 @@ Things have been great in the sherwood simcoe home. the sun is shining and despi
 
 Yesterday i went with my sister jessie, and her kids to the tulip garden in woodburn. i have never seen so many beautiful tulips! check it out if you have a chance, i think that next week they will all be blooming :).
 
-![]({{ site.baseurl }}/assets/tumblr_l022spycKh1qb8l8q.jpg)
+![](/public/assets/tumblr_l022spycKh1qb8l8q.jpg)
 
 Just watch out for the rare muddy spots. little girls in skirts and pink leggings don't think it is funny to get dirty :)
 
-![]({{ site.baseurl }}/assets/tumblr_l022tmtskR1qb8l8q.jpg)
+![](/public/assets/tumblr_l022tmtskR1qb8l8q.jpg)
 
 After seeing such a beautiful place and having another gorgeous day outside, i think the weeds are calling!
 

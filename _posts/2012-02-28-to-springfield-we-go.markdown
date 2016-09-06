@@ -24,12 +24,12 @@ we were a bit quick to pack and left our camera at home…. but we did get a few
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_m04di10gUs1qb8l8q.jpg)
+![](/public/assets/tumblr_m04di10gUs1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_m04disrUJT1qb8l8q.jpg)
+![](/public/assets/tumblr_m04disrUJT1qb8l8q.jpg)
 
 
 

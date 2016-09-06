@@ -14,7 +14,7 @@ Life is never dull around here as we had five of our 14 nieces and nephews over 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l1lqzbvMMf1qb8l8q.jpg)
+![](/public/assets/tumblr_l1lqzbvMMf1qb8l8q.jpg)
 
 
 
@@ -24,7 +24,7 @@ the evening was quick to blast off with a little guitar and dancing..
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l1lrehHeRN1qb8l8q.jpg)
+![](/public/assets/tumblr_l1lrehHeRN1qb8l8q.jpg)
 
 
 
@@ -34,7 +34,7 @@ some "help" in the kitchen…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l1lr1zlUWe1qb8l8q.jpg)
+![](/public/assets/tumblr_l1lr1zlUWe1qb8l8q.jpg)
 
 
 
@@ -44,7 +44,7 @@ as well as some snacks and a movie…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l1lrcrwrZ71qb8l8q.jpg)
+![](/public/assets/tumblr_l1lrcrwrZ71qb8l8q.jpg)
 
 
 

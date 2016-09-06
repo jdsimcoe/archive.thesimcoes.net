@@ -19,7 +19,7 @@ After a few hot days we finally decided it was time to sleep in a "cool" environ
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lpbqhnbeHM1qb8l8q.jpg) 
+![](/public/assets/tumblr_lpbqhnbeHM1qb8l8q.jpg) 
 
 
 
@@ -34,4 +34,4 @@ we got out there surprisingly quick, and were able to enjoyed our home made pizz
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lpbqiwKI8R1qb8l8q.jpg)
+![](/public/assets/tumblr_lpbqiwKI8R1qb8l8q.jpg)

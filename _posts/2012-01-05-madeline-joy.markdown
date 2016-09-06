@@ -14,22 +14,22 @@ finally getting up some of the highlights from maddie's newborn pics…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxc29sCvej1qb8l8q.jpg)
+![](/public/assets/tumblr_lxc29sCvej1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxc2bzjbmG1qb8l8q.jpg)
+![](/public/assets/tumblr_lxc2bzjbmG1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxc2dopxJ21qb8l8q.jpg)
+![](/public/assets/tumblr_lxc2dopxJ21qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxc2hvYshj1qb8l8q.jpg)
+![](/public/assets/tumblr_lxc2hvYshj1qb8l8q.jpg)
 
 
 
@@ -39,4 +39,4 @@ and here is cute one thrown in of bekah:
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxc2kcroWd1qb8l8q.jpg)
+![](/public/assets/tumblr_lxc2kcroWd1qb8l8q.jpg)

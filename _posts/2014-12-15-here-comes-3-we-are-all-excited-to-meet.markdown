@@ -11,6 +11,6 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_nglvy0f7lk1qbwpqvo1_1280.jpg)
+![](/public/assets/tumblr_nglvy0f7lk1qbwpqvo1_1280.jpg)
 
 Here comes #3!!!!!!! We are all excited to meet BabyBaby!

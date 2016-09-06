@@ -11,6 +11,6 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_m7f72p6yyy1qbwpqvo1_1280.jpg)
+![](/public/assets/tumblr_m7f72p6yyy1qbwpqvo1_1280.jpg)
 
 first family jog!

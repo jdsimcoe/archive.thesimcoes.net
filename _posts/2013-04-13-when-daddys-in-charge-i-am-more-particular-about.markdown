@@ -11,6 +11,6 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_ml7wtqecw41qbwpqvo1_1280.jpg)
+![](/public/assets/tumblr_ml7wtqecw41qbwpqvo1_1280.jpg)
 
 When Daddy's in charge, I am more particular about how and where I eat. I like to keep him on his toes! ;)

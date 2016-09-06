@@ -20,7 +20,7 @@ Indeed we have!
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l40u50MYqn1qb8l8q.jpg)
+![](/public/assets/tumblr_l40u50MYqn1qb8l8q.jpg)
 
 
 

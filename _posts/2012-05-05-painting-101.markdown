@@ -14,7 +14,7 @@ wordpress_id: 266
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_m3f3q0h2yG1qb8l8q.jpg)
+![](/public/assets/tumblr_m3f3q0h2yG1qb8l8q.jpg)
 
 
 
@@ -24,7 +24,7 @@ wordpress_id: 266
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_m3f3s6Z2JQ1qb8l8q.jpg)
+![](/public/assets/tumblr_m3f3s6Z2JQ1qb8l8q.jpg)
 
 
 
@@ -34,4 +34,4 @@ wordpress_id: 266
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_m3f3uho9iV1qb8l8q.jpg)
+![](/public/assets/tumblr_m3f3uho9iV1qb8l8q.jpg)

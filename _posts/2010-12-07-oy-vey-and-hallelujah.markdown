@@ -19,7 +19,7 @@ hallelujah [hal-uh-loo-yuh] : praise the LORD!
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_ld2fhl99rY1qb8l8q.jpg)  
+![](/public/assets/tumblr_ld2fhl99rY1qb8l8q.jpg)  
 
 
 
@@ -45,4 +45,4 @@ jonathan affixed the first strand of lights to our lower roof. then moved to the
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_ld2fhxPhIr1qb8l8q.jpg)
+![](/public/assets/tumblr_ld2fhxPhIr1qb8l8q.jpg)

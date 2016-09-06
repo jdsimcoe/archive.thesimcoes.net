@@ -11,6 +11,6 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_m416bhj7xo1qbwpqvo1_1280.jpg)
+![](/public/assets/tumblr_m416bhj7xo1qbwpqvo1_1280.jpg)
 
 mother's day

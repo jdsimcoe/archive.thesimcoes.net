@@ -11,24 +11,24 @@ wordpress_id: 59
 
 birthday at Colsey’s parents house
 
-![image]({{ site.baseurl }}/assets/739ff4bd2ef2f4238557c3df86fd7f68/tumblr_inline_nnlr2lDHWt1qb8l8q_1280.jpg)
+![image](/public/assets/739ff4bd2ef2f4238557c3df86fd7f68/tumblr_inline_nnlr2lDHWt1qb8l8q_1280.jpg)
 
 the kids picked out presents for Mommy
 
-![image]({{ site.baseurl }}/assets/406c7b10ccfea56ee2e97b3266395300/tumblr_inline_nnlr6dXIpQ1qb8l8q_1280.jpg)![image]({{ site.baseurl }}/assets/e386f253bedb9a302e82908de2ffad89/tumblr_inline_nnlr74rK3g1qb8l8q_1280.jpg)
+![image](/public/assets/406c7b10ccfea56ee2e97b3266395300/tumblr_inline_nnlr6dXIpQ1qb8l8q_1280.jpg)![image](/public/assets/e386f253bedb9a302e82908de2ffad89/tumblr_inline_nnlr74rK3g1qb8l8q_1280.jpg)
 
 the zoo with friends
 
-![image]({{ site.baseurl }}/assets/2a06885dfa65440fbadff99cdfec87f4/tumblr_inline_nnlr8w8zK01qb8l8q_1280.jpg)![image]({{ site.baseurl }}/assets/ae72ea3d2665f8a3e126985dc07ccca4/tumblr_inline_nnlr97qXbl1qb8l8q_1280.jpg)![image]({{ site.baseurl }}/assets/b46ee10f0c5dfa3db772985eec45ff4d/tumblr_inline_nnlrakw7fP1qb8l8q_1280.jpg)![image]({{ site.baseurl }}/assets/ef51962513f46bad3ff8a767888ec5d4/tumblr_inline_nnlrca6ir11qb8l8q_1280.jpg)![image]({{ site.baseurl }}/assets/5123fc137d6394ac2bf27cd3ca16e468/tumblr_inline_nnlrdrSnJN1qb8l8q_1280.jpg)
+![image](/public/assets/2a06885dfa65440fbadff99cdfec87f4/tumblr_inline_nnlr8w8zK01qb8l8q_1280.jpg)![image](/public/assets/ae72ea3d2665f8a3e126985dc07ccca4/tumblr_inline_nnlr97qXbl1qb8l8q_1280.jpg)![image](/public/assets/b46ee10f0c5dfa3db772985eec45ff4d/tumblr_inline_nnlrakw7fP1qb8l8q_1280.jpg)![image](/public/assets/ef51962513f46bad3ff8a767888ec5d4/tumblr_inline_nnlrca6ir11qb8l8q_1280.jpg)![image](/public/assets/5123fc137d6394ac2bf27cd3ca16e468/tumblr_inline_nnlrdrSnJN1qb8l8q_1280.jpg)
 
 looking for ducks :)
 
-![image]({{ site.baseurl }}/assets/58ca8d857d1b8001bdd66db6f6c0ba39/tumblr_inline_nnlrfcd31r1qb8l8q_1280.jpg)![image]({{ site.baseurl }}/assets/b7dad5212938c62834232a5d7e3b86f8/tumblr_inline_nnlrh4xMp11qb8l8q_1280.jpg)![image]({{ site.baseurl }}/assets/264ddb994540c0df981c6268ac1c0a4d/tumblr_inline_nnlria4L2X1qb8l8q_1280.jpg)![image]({{ site.baseurl }}/assets/e45c1cd7b08b844cbc6bd932da04e1e0/tumblr_inline_nnlrjpupG61qb8l8q_1280.jpg)![]({{ site.baseurl }}/assets/c423c04c9f2909803faaac3c12e4f37a/tumblr_inline_nnlt3hUhdE1qb8l8q_1280.jpg)![]({{ site.baseurl }}/assets/a8ee04972f6cdc3863538fbbb9badfbd/tumblr_inline_nnlt3h0ykQ1qb8l8q_1280.jpg)![]({{ site.baseurl }}/assets/c01ad984e87eccf800a343f8814c5119/tumblr_inline_nnlt3lZG881qb8l8q_1280.jpg)![]({{ site.baseurl }}/assets/8f5810859caec64b682170af06c90bba/tumblr_inline_nnlt41UVxE1qb8l8q_1280.jpg)![]({{ site.baseurl }}/assets/8e1bbcd343d4d72ab29a0751d88bf1c3/tumblr_inline_nnlt4sHwo91qb8l8q_1280.jpg)![]({{ site.baseurl }}/assets/633e980a336fb54c6a9059b2aaf3301b/tumblr_inline_nnlt5qJCaD1qb8l8q_1280.jpg)![]({{ site.baseurl }}/assets/ceb3e3d4cc71d30cb36668f4dc0a2fef/tumblr_inline_nnlt6e1uEu1qb8l8q_1280.jpg)![]({{ site.baseurl }}/assets/fe343e730a8bc939aeab619d9abd3f9a/tumblr_inline_nnlt7246ps1qb8l8q_1280.jpg)![]({{ site.baseurl }}/assets/d7821ad957c229e1a3990ad8df4e044f/tumblr_inline_nnlt84EuiA1qb8l8q_1280.jpg)![]({{ site.baseurl }}/assets/1b2e977ea3c8406981430f5255a42af2/tumblr_inline_nnlt8vtBwn1qb8l8q_1280.jpg)![]({{ site.baseurl }}/assets/ae16c0073c1769a4538e4978acd74416/tumblr_inline_nnlt9sB6yQ1qb8l8q_1280.jpg)![]({{ site.baseurl }}/assets/2409191c3a19222409dfc068f2e3be3d/tumblr_inline_nnltb2Xxeq1qb8l8q_1280.jpg)
+![image](/public/assets/58ca8d857d1b8001bdd66db6f6c0ba39/tumblr_inline_nnlrfcd31r1qb8l8q_1280.jpg)![image](/public/assets/b7dad5212938c62834232a5d7e3b86f8/tumblr_inline_nnlrh4xMp11qb8l8q_1280.jpg)![image](/public/assets/264ddb994540c0df981c6268ac1c0a4d/tumblr_inline_nnlria4L2X1qb8l8q_1280.jpg)![image](/public/assets/e45c1cd7b08b844cbc6bd932da04e1e0/tumblr_inline_nnlrjpupG61qb8l8q_1280.jpg)![](/public/assets/c423c04c9f2909803faaac3c12e4f37a/tumblr_inline_nnlt3hUhdE1qb8l8q_1280.jpg)![](/public/assets/a8ee04972f6cdc3863538fbbb9badfbd/tumblr_inline_nnlt3h0ykQ1qb8l8q_1280.jpg)![](/public/assets/c01ad984e87eccf800a343f8814c5119/tumblr_inline_nnlt3lZG881qb8l8q_1280.jpg)![](/public/assets/8f5810859caec64b682170af06c90bba/tumblr_inline_nnlt41UVxE1qb8l8q_1280.jpg)![](/public/assets/8e1bbcd343d4d72ab29a0751d88bf1c3/tumblr_inline_nnlt4sHwo91qb8l8q_1280.jpg)![](/public/assets/633e980a336fb54c6a9059b2aaf3301b/tumblr_inline_nnlt5qJCaD1qb8l8q_1280.jpg)![](/public/assets/ceb3e3d4cc71d30cb36668f4dc0a2fef/tumblr_inline_nnlt6e1uEu1qb8l8q_1280.jpg)![](/public/assets/fe343e730a8bc939aeab619d9abd3f9a/tumblr_inline_nnlt7246ps1qb8l8q_1280.jpg)![](/public/assets/d7821ad957c229e1a3990ad8df4e044f/tumblr_inline_nnlt84EuiA1qb8l8q_1280.jpg)![](/public/assets/1b2e977ea3c8406981430f5255a42af2/tumblr_inline_nnlt8vtBwn1qb8l8q_1280.jpg)![](/public/assets/ae16c0073c1769a4538e4978acd74416/tumblr_inline_nnlt9sB6yQ1qb8l8q_1280.jpg)![](/public/assets/2409191c3a19222409dfc068f2e3be3d/tumblr_inline_nnltb2Xxeq1qb8l8q_1280.jpg)
 
 Prom night 2015!
 
-![]({{ site.baseurl }}/assets/518729fac7baabf637d484c9e2478e6f/tumblr_inline_nnlt1kuOdK1qb8l8q_1280.jpg)![]({{ site.baseurl }}/assets/93819847fa26440aab7b3ffaad776cb5/tumblr_inline_nnlt1lilDG1qb8l8q_1280.jpg)![]({{ site.baseurl }}/assets/06adb85d98e6e9f8f26922dcdc9bfa7d/tumblr_inline_nnlt1wADkb1qb8l8q_1280.jpg)![]({{ site.baseurl }}/assets/4b668531013144d8c752c6f61ff0c069/tumblr_inline_nnlt28WCei1qb8l8q_1280.jpg)
+![](/public/assets/518729fac7baabf637d484c9e2478e6f/tumblr_inline_nnlt1kuOdK1qb8l8q_1280.jpg)![](/public/assets/93819847fa26440aab7b3ffaad776cb5/tumblr_inline_nnlt1lilDG1qb8l8q_1280.jpg)![](/public/assets/06adb85d98e6e9f8f26922dcdc9bfa7d/tumblr_inline_nnlt1wADkb1qb8l8q_1280.jpg)![](/public/assets/4b668531013144d8c752c6f61ff0c069/tumblr_inline_nnlt28WCei1qb8l8q_1280.jpg)
 
 relaxing after dinner :)
 
-![]({{ site.baseurl }}/assets/9621195478a4781ca6448ba957a4d5a4/tumblr_inline_nnlt0v7fBd1qb8l8q_1280.jpg)
+![](/public/assets/9621195478a4781ca6448ba957a4d5a4/tumblr_inline_nnlt0v7fBd1qb8l8q_1280.jpg)

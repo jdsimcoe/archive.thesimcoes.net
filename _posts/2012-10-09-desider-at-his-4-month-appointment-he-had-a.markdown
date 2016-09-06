@@ -11,6 +11,6 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_mbn8mkrln91qbwpqvo1_1280.jpg)
+![](/public/assets/tumblr_mbn8mkrln91qbwpqvo1_1280.jpg)
 
 Desider at his 4 month appointment… he had a pretty good attitude about it :)

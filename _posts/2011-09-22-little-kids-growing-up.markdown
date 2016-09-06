@@ -14,7 +14,7 @@ we got to attend bekah's 2nd birthday party last week and it was so much fun! pl
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lrw0bgff231qb8l8q.jpg)
+![](/public/assets/tumblr_lrw0bgff231qb8l8q.jpg)
 
 
 
@@ -24,22 +24,22 @@ between necklace making…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lrw0bwaE1N1qb8l8q.jpg)
+![](/public/assets/tumblr_lrw0bwaE1N1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lrw0c5JoWb1qb8l8q.jpg)
+![](/public/assets/tumblr_lrw0c5JoWb1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lrw0cgvhp01qb8l8q.jpg)
+![](/public/assets/tumblr_lrw0cgvhp01qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lrw0crbMlu1qb8l8q.jpg)
+![](/public/assets/tumblr_lrw0crbMlu1qb8l8q.jpg)
 
 
 
@@ -49,7 +49,7 @@ presents…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lrw0k84b3z1qb8l8q.jpg)
+![](/public/assets/tumblr_lrw0k84b3z1qb8l8q.jpg)
 
 
 
@@ -59,7 +59,7 @@ presents…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lrw0dq4PFP1qb8l8q.jpg)
+![](/public/assets/tumblr_lrw0dq4PFP1qb8l8q.jpg)
 
 
 
@@ -69,7 +69,7 @@ candy eating…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lrw0eo0Dgu1qb8l8q.jpg)
+![](/public/assets/tumblr_lrw0eo0Dgu1qb8l8q.jpg)
 
 
 
@@ -79,12 +79,12 @@ cake…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lrw0l2qYOo1qb8l8q.jpg)
+![](/public/assets/tumblr_lrw0l2qYOo1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lrw0nfA5gs1qb8l8q.jpg)
+![](/public/assets/tumblr_lrw0nfA5gs1qb8l8q.jpg)
 
 
 
@@ -94,17 +94,17 @@ and over all family fun…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lrw0m4ufuI1qb8l8q.jpg)
+![](/public/assets/tumblr_lrw0m4ufuI1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lrw0mjx0yg1qb8l8q.jpg)
+![](/public/assets/tumblr_lrw0mjx0yg1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lrw0o2GccD1qb8l8q.jpg)
+![](/public/assets/tumblr_lrw0o2GccD1qb8l8q.jpg)
 
 
 
@@ -119,7 +119,7 @@ even little Tariku was remembered for his birthday. Please pray that he comes ho
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lrw0q35Kvl1qb8l8q.jpg)
+![](/public/assets/tumblr_lrw0q35Kvl1qb8l8q.jpg)
 
 
 

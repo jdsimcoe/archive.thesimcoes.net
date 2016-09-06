@@ -19,52 +19,52 @@ Saturday was a big surprise party for jonathan. i had to work to get him there, 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lnikbpd1ia1qb8l8q.jpg)
+![](/public/assets/tumblr_lnikbpd1ia1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lnikcneC7G1qb8l8q.jpg)
+![](/public/assets/tumblr_lnikcneC7G1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lnikdfeczu1qb8l8q.jpg)
+![](/public/assets/tumblr_lnikdfeczu1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lnikd3Ih3o1qb8l8q.jpg)
+![](/public/assets/tumblr_lnikd3Ih3o1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lnikdzwjB71qb8l8q.jpg)
+![](/public/assets/tumblr_lnikdzwjB71qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lnjc81R6ku1qb8l8q.jpg)
+![](/public/assets/tumblr_lnjc81R6ku1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lnikea9BJ91qb8l8q.jpg)
+![](/public/assets/tumblr_lnikea9BJ91qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lnikelKZho1qb8l8q.jpg)
+![](/public/assets/tumblr_lnikelKZho1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lnikevaWYj1qb8l8q.jpg)
+![](/public/assets/tumblr_lnikevaWYj1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lnikfvgxtX1qb8l8q.jpg)
+![](/public/assets/tumblr_lnikfvgxtX1qb8l8q.jpg)
 
 
 
@@ -74,7 +74,7 @@ after bowling, family came back to our house for dinner and cake.
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lnikg4ZUIM1qb8l8q.jpg)
+![](/public/assets/tumblr_lnikg4ZUIM1qb8l8q.jpg)
 
 
 
@@ -84,12 +84,12 @@ but the fun didn't stop there. Wednesday was Jonathan's actual birthday. a day t
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lnikqnUVkd1qb8l8q.jpg)
+![](/public/assets/tumblr_lnikqnUVkd1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lnikr1HEOg1qb8l8q.jpg)
+![](/public/assets/tumblr_lnikr1HEOg1qb8l8q.jpg)
 
 
 
@@ -99,12 +99,12 @@ We spent some time in the hot tub and then headed home for a big ol' mexican spr
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lnikrgHF051qb8l8q.jpg)
+![](/public/assets/tumblr_lnikrgHF051qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lnikxqkyvr1qb8l8q.jpg)
+![](/public/assets/tumblr_lnikxqkyvr1qb8l8q.jpg)
 
 
 
@@ -114,7 +114,7 @@ presents…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lniky4llTR1qb8l8q.jpg)
+![](/public/assets/tumblr_lniky4llTR1qb8l8q.jpg)
 
 
 
@@ -124,7 +124,7 @@ and of course, more cake!
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lnikyodOtS1qb8l8q.jpg)
+![](/public/assets/tumblr_lnikyodOtS1qb8l8q.jpg)
 
 
 

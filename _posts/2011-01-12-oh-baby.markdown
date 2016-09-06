@@ -19,7 +19,7 @@ here is one of myself… funny thing is.. the chair i am sitting on in this pict
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lexi22gg301qb8l8q.jpg)
+![](/public/assets/tumblr_lexi22gg301qb8l8q.jpg)
 
 
 
@@ -29,7 +29,7 @@ this is one of my all time favorites of my buff husband :)
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lexif17X1x1qb8l8q.jpg)
+![](/public/assets/tumblr_lexif17X1x1qb8l8q.jpg)
 
 
 
@@ -39,7 +39,7 @@ there are a few things that i find hilarious about this photo.. one is that this
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lexiggWoaQ1qb8l8q.jpg)
+![](/public/assets/tumblr_lexiggWoaQ1qb8l8q.jpg)
 
 
 
@@ -49,12 +49,12 @@ these are so that any of you parents can know that if your kids have an addictio
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lexijr5SQ81qb8l8q.jpg)
+![](/public/assets/tumblr_lexijr5SQ81qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lexikfx3Ij1qb8l8q.jpg)
+![](/public/assets/tumblr_lexikfx3Ij1qb8l8q.jpg)
 
 
 
@@ -65,7 +65,7 @@ here is a loving picture of me and my adorable sister barclay.. i think that eit
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lexinkMew21qb8l8q.jpg)
+![](/public/assets/tumblr_lexinkMew21qb8l8q.jpg)
 
 
 
@@ -80,4 +80,4 @@ finally, if you have ever received a singing telegram from the simcoes… you ca
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lexirhNCsB1qb8l8q.jpg)
+![](/public/assets/tumblr_lexirhNCsB1qb8l8q.jpg)

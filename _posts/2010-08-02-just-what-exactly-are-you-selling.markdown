@@ -9,7 +9,7 @@ title: just what exactly are you selling?
 wordpress_id: 417
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_l6jatzkmaW1qb8l8q.jpg)
+![](/public/assets/tumblr_l6jatzkmaW1qb8l8q.jpg)
 
 
 
@@ -19,4 +19,4 @@ what better way to spice up a garage sale than with a taco and lemonade?
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l6jauzEubE1qb8l8q.jpg)
+![](/public/assets/tumblr_l6jauzEubE1qb8l8q.jpg)

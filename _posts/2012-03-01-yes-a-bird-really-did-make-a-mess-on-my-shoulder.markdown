@@ -11,6 +11,6 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_m07u1ohfgv1qbwpqvo1_1280.jpg)
+![](/public/assets/tumblr_m07u1ohfgv1qbwpqvo1_1280.jpg)
 
 Yes, a bird really did make a mess on my shoulder this morning on the way to work. The snow must have scared him…

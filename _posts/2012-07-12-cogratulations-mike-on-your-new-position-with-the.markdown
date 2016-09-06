@@ -11,6 +11,6 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_m724gx5ph91qbwpqvo1_1280.jpg)
+![](/public/assets/tumblr_m724gx5ph91qbwpqvo1_1280.jpg)
 
 Cogratulations Mike on your new position with the Gresham PD!  it is so awesome to see where the LORD is taking you!

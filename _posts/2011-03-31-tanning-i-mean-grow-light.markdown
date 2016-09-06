@@ -14,7 +14,7 @@ so it turns out that you can't tan under a grow light… i thought i must make u
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lixlnyJE3V1qb8l8q.jpg)
+![](/public/assets/tumblr_lixlnyJE3V1qb8l8q.jpg)
 
 
 

@@ -19,7 +19,7 @@ its a….
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxylpzTg2t1qb8l8q.jpg)
+![](/public/assets/tumblr_lxylpzTg2t1qb8l8q.jpg)
 
 
 
@@ -99,7 +99,7 @@ its a….
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxylqm3KMQ1qb8l8q.jpg)
+![](/public/assets/tumblr_lxylqm3KMQ1qb8l8q.jpg)
 
 
 
@@ -114,7 +114,7 @@ and he's perfect :)
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lxylrh0Hkl1qb8l8q.jpg)
+![](/public/assets/tumblr_lxylrh0Hkl1qb8l8q.jpg)
 
 
 

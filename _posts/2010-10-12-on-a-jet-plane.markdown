@@ -14,7 +14,7 @@ last week we finally got to make our trip down to LA to spend some time with gra
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_la564wfRvR1qb8l8q.jpg)
+![](/public/assets/tumblr_la564wfRvR1qb8l8q.jpg)
 
 
 
@@ -24,7 +24,7 @@ we traveled with papa and mamma sims and got a tour of the old stomping grounds.
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_la565xyYry1qb8l8q.jpg)
+![](/public/assets/tumblr_la565xyYry1qb8l8q.jpg)
 
 
 
@@ -34,22 +34,22 @@ we also got time to meet up with jonathan's cousins, chad and heather, and play 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_la5675YsGR1qb8l8q.jpg)
+![](/public/assets/tumblr_la5675YsGR1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_la567g8O1p1qb8l8q.jpg)
+![](/public/assets/tumblr_la567g8O1p1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_la567q7zR21qb8l8q.jpg)
+![](/public/assets/tumblr_la567q7zR21qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_la5682ZIYa1qb8l8q.jpg)
+![](/public/assets/tumblr_la5682ZIYa1qb8l8q.jpg)
 
 
 
@@ -59,7 +59,7 @@ we spent one of our days in disney land.. a place we had both been, but never go
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_la56bslmz91qb8l8q.jpg)
+![](/public/assets/tumblr_la56bslmz91qb8l8q.jpg)
 
 
 
@@ -69,7 +69,7 @@ but lets be honest… we did NOT go on the tea cups.
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_la56abqh581qb8l8q.jpg)
+![](/public/assets/tumblr_la56abqh581qb8l8q.jpg)
 
 
 
@@ -79,7 +79,7 @@ it did rain a little… but that was fun too :)
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_la56cwMpyA1qb8l8q.jpg)
+![](/public/assets/tumblr_la56cwMpyA1qb8l8q.jpg)
 
 
 
@@ -94,4 +94,4 @@ is this warning really a concern???
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_la56ezSELe1qb8l8q.jpg)
+![](/public/assets/tumblr_la56ezSELe1qb8l8q.jpg)

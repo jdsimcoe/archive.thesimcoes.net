@@ -24,7 +24,7 @@ we had an awesome time and learned a lot about the other. it was nice being at t
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lkmu23tzkn1qb8l8q.jpg)
+![](/public/assets/tumblr_lkmu23tzkn1qb8l8q.jpg)
 
 
 
@@ -34,22 +34,22 @@ apparently there was a weekend that i must have been unconscious because i do 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lkmuonohi91qb8l8q.jpg)
+![](/public/assets/tumblr_lkmuonohi91qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lkmuovsoaL1qb8l8q.jpg)
+![](/public/assets/tumblr_lkmuovsoaL1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lkmup8Nj9b1qb8l8q.jpg)
+![](/public/assets/tumblr_lkmup8Nj9b1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lkmupgwDsO1qb8l8q.jpg)
+![](/public/assets/tumblr_lkmupgwDsO1qb8l8q.jpg)
 
 
 
@@ -64,7 +64,7 @@ Sunday morning was a race of a day, but a blast! Up early to find our baskets
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lkmutdSPHB1qb8l8q.jpg)
+![](/public/assets/tumblr_lkmutdSPHB1qb8l8q.jpg)
 
 
 
@@ -74,12 +74,12 @@ then off to sunrise worship and church, to be followed by brunch with jonathan's
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lkmuv4QAST1qb8l8q.jpg)
+![](/public/assets/tumblr_lkmuv4QAST1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lkmuw6Fao31qb8l8q.jpg)
+![](/public/assets/tumblr_lkmuw6Fao31qb8l8q.jpg)
 
 
 
@@ -89,22 +89,22 @@ the last weekend in april was momma simcoe's birthday, which of course needs a c
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lkmv8hMxiu1qb8l8q.jpg)
+![](/public/assets/tumblr_lkmv8hMxiu1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lkmv8qLsGp1qb8l8q.jpg)
+![](/public/assets/tumblr_lkmv8qLsGp1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lkmv8w0of51qb8l8q.jpg)
+![](/public/assets/tumblr_lkmv8w0of51qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lkmvbf2S2y1qb8l8q.jpg)
+![](/public/assets/tumblr_lkmvbf2S2y1qb8l8q.jpg)
 
 
 
@@ -114,7 +114,7 @@ our trains liked each other
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lkmvbrdph41qb8l8q.jpg)
+![](/public/assets/tumblr_lkmvbrdph41qb8l8q.jpg)
 
 
 

@@ -14,29 +14,29 @@ wordpress_id: 353
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lojkqpmkyW1qb8l8q.jpg)
+![](/public/assets/tumblr_lojkqpmkyW1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lojkr1aIdm1qb8l8q.jpg)
+![](/public/assets/tumblr_lojkr1aIdm1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lojkrdXKd31qb8l8q.jpg)
+![](/public/assets/tumblr_lojkrdXKd31qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lojkrpaeQR1qb8l8q.jpg)
+![](/public/assets/tumblr_lojkrpaeQR1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lojkryAY781qb8l8q.jpg)
+![](/public/assets/tumblr_lojkryAY781qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lojks8JD6v1qb8l8q.jpg)  
+![](/public/assets/tumblr_lojks8JD6v1qb8l8q.jpg)  

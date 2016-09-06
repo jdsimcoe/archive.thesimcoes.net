@@ -19,12 +19,12 @@ a little woodstocks pizza…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lbxqehWqqd1qb8l8q.jpg)
+![](/public/assets/tumblr_lbxqehWqqd1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lbxqio2GYT1qb8l8q.jpg)
+![](/public/assets/tumblr_lbxqio2GYT1qb8l8q.jpg)
 
 
 
@@ -34,7 +34,7 @@ a little bundling up….
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lbxqfc8bqj1qb8l8q.jpg)
+![](/public/assets/tumblr_lbxqfc8bqj1qb8l8q.jpg)
 
 
 
@@ -44,7 +44,7 @@ a little sippy sip of the chocolate juice…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lbxqhmPUXb1qb8l8q.jpg)
+![](/public/assets/tumblr_lbxqhmPUXb1qb8l8q.jpg)
 
 
 

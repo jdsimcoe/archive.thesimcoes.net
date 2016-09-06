@@ -11,7 +11,7 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_m104eqcgzo1qbwpqvo1_r1_1280.jpg)
+![](/public/assets/tumblr_m104eqcgzo1qbwpqvo1_r1_1280.jpg)
 
 As the saying goes: "Some guys have all the luck." People live their entire lives searching for gold at the end of a mythical rainbow. I don't believe in any of that.
 

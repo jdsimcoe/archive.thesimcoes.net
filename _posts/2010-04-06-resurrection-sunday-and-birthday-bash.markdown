@@ -9,7 +9,7 @@ title: Resurrection Sunday and Birthday Bash!
 wordpress_id: 437
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_l0goqu2O1t1qb8l8q.jpg)
+![](/public/assets/tumblr_l0goqu2O1t1qb8l8q.jpg)
 
 
 
@@ -24,7 +24,7 @@ Saturday, Jonathan spent much of the day at the new church building getting read
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l0goclSChS1qb8l8q.jpg)
+![](/public/assets/tumblr_l0goclSChS1qb8l8q.jpg)
 
 
 
@@ -34,7 +34,7 @@ beyond some of the extravagant designs that happen around the bittner dinner t
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l0gojfvvx81qb8l8q.jpg)
+![](/public/assets/tumblr_l0gojfvvx81qb8l8q.jpg)
 
 
 
@@ -49,7 +49,7 @@ Sunday morning was Resurrection sunday and the day was so amazing! We woke up ea
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l0goqc5NFw1qb8l8q.jpg)
+![](/public/assets/tumblr_l0goqc5NFw1qb8l8q.jpg)
 
 
 
@@ -59,7 +59,7 @@ post church all the little kids did an easter egg hunt and we stuffed ourselves 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l0gothPW2s1qb8l8q.jpg)
+![](/public/assets/tumblr_l0gothPW2s1qb8l8q.jpg)
 
 
 
@@ -69,12 +69,12 @@ oh but don't you worry, the fun doesn't stop there! Monday was my birthday and j
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l0govqH1HS1qb8l8q.jpg)
+![](/public/assets/tumblr_l0govqH1HS1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l0gow2EIV01qb8l8q.jpg)
+![](/public/assets/tumblr_l0gow2EIV01qb8l8q.jpg)
 
 
 
@@ -84,12 +84,12 @@ from there we headed to the bowling alley
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l0goytKCiG1qb8l8q.jpg)
+![](/public/assets/tumblr_l0goytKCiG1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l0goz8CS5R1qb8l8q.jpg)
+![](/public/assets/tumblr_l0goz8CS5R1qb8l8q.jpg)
 
 
 

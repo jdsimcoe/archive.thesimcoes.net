@@ -11,6 +11,6 @@ post_format:
 - Image
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_m785inuy4y1qbwpqvo1_500.jpg)
+![](/public/assets/tumblr_m785inuy4y1qbwpqvo1_500.jpg)
 
 Amazing that something so small can go through clothing so fast… Watching my wife go through clothes is one thing, but this is SOMETHING ELSE! ;)

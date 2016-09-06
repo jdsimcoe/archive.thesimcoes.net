@@ -9,7 +9,7 @@ title: happy birthday patty watty!
 wordpress_id: 408
 ---
 
-![]({{ site.baseurl }}/assets/tumblr_l9iypqZRRo1qb8l8q.jpg)
+![](/public/assets/tumblr_l9iypqZRRo1qb8l8q.jpg)
 
 
 
@@ -24,7 +24,7 @@ there is always lots of dancing…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l9iyrwb3QL1qb8l8q.jpg)
+![](/public/assets/tumblr_l9iyrwb3QL1qb8l8q.jpg)
 
 
 
@@ -34,7 +34,7 @@ playing princess…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l9iyscng5v1qb8l8q.jpg)
+![](/public/assets/tumblr_l9iyscng5v1qb8l8q.jpg)
 
 
 
@@ -44,7 +44,7 @@ laughter….
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l9iytdItLt1qb8l8q.jpg)
+![](/public/assets/tumblr_l9iytdItLt1qb8l8q.jpg)
 
 
 
@@ -54,7 +54,7 @@ singeing of eyebrows…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l9iyu2CGFk1qb8l8q.jpg)
+![](/public/assets/tumblr_l9iyu2CGFk1qb8l8q.jpg)
 
 
 
@@ -64,7 +64,7 @@ and of course lots of love…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l9iz07PLJN1qb8l8q.jpg)
+![](/public/assets/tumblr_l9iz07PLJN1qb8l8q.jpg)
 
 
 

@@ -24,7 +24,7 @@ Though Monday seemed to be a bit stormy, it didn't keep our spirits down.
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lgd93jtXK81qb8l8q.jpg)
+![](/public/assets/tumblr_lgd93jtXK81qb8l8q.jpg)
 
 
 
@@ -34,7 +34,7 @@ after being caught in an unexpected wave and escaping a sudden downpour, we spen
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lgd959NzxL1qb8l8q.jpg)
+![](/public/assets/tumblr_lgd959NzxL1qb8l8q.jpg)
 
 
 
@@ -44,12 +44,12 @@ but as the sun began to go down and we got ready for our dinner on the town, the
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lgd98yGEWK1qb8l8q.jpg)
+![](/public/assets/tumblr_lgd98yGEWK1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lgd99hXLdL1qb8l8q.jpg)
+![](/public/assets/tumblr_lgd99hXLdL1qb8l8q.jpg)
 
 
 
@@ -59,7 +59,7 @@ waking up the next day was also nothing less than spectacular as the sun was shi
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lgd9avdsdZ1qb8l8q.jpg)
+![](/public/assets/tumblr_lgd9avdsdZ1qb8l8q.jpg)
 
 
 
@@ -69,7 +69,7 @@ and although brian is the ballerina in the family, i couldn't help but see if jo
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lgd9c4Npqo1qb8l8q.jpg)
+![](/public/assets/tumblr_lgd9c4Npqo1qb8l8q.jpg)
 
 
 
@@ -84,9 +84,9 @@ but all in all we had an amazing time… again. :)
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lgd9kr170o1qb8l8q.jpg)
+![](/public/assets/tumblr_lgd9kr170o1qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lgdb08cjnD1qb8l8q.jpg)
+![](/public/assets/tumblr_lgdb08cjnD1qb8l8q.jpg)

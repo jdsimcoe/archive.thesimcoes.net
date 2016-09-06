@@ -14,9 +14,9 @@ A couple of weekends ago, we got the opportunity to work with jessie to shoot ph
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lh3azrlhU71qb8l8q.jpg)
+![](/public/assets/tumblr_lh3azrlhU71qb8l8q.jpg)
 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lh3b9ioEuN1qb8l8q.jpg)
+![](/public/assets/tumblr_lh3b9ioEuN1qb8l8q.jpg)

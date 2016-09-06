@@ -9,7 +9,7 @@ title: how to keep a hot baby happy!
 wordpress_id: 226
 ---
 
- ![]({{ site.baseurl }}/assets/tumblr_m8gfe56zSF1qb8l8q.jpg)
+ ![](/public/assets/tumblr_m8gfe56zSF1qb8l8q.jpg)
 
 
 
@@ -24,7 +24,7 @@ campout in the living room..
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_m8gfi0QHFG1qb8l8q.jpg)
+![](/public/assets/tumblr_m8gfi0QHFG1qb8l8q.jpg)
 
 
 
@@ -34,7 +34,7 @@ pool time…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_m8gfj1p4hH1qb8l8q.jpg)
+![](/public/assets/tumblr_m8gfj1p4hH1qb8l8q.jpg)
 
 
 
@@ -44,4 +44,4 @@ and bouncy seats in the shade!
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_m8gfk9s5t51qb8l8q.jpg)
+![](/public/assets/tumblr_m8gfk9s5t51qb8l8q.jpg)

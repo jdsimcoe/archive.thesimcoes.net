@@ -14,7 +14,7 @@ wordpress_id: 393
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_ldupxyHcbq1qb8l8q.jpg)
+![](/public/assets/tumblr_ldupxyHcbq1qb8l8q.jpg)
 
 
 
@@ -29,7 +29,7 @@ That being said, Colsey did leave me with her prized little lamb, a special remi
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lduq2jEJFI1qb8l8q.jpg)
+![](/public/assets/tumblr_lduq2jEJFI1qb8l8q.jpg)
 
 
 
@@ -40,7 +40,7 @@ Following the cube decoration contest, which we didn't win :( , Colsey and I wer
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_leksu10oyN1qb8l8q.jpg)
+![](/public/assets/tumblr_leksu10oyN1qb8l8q.jpg)
 
 
 

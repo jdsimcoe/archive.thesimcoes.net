@@ -19,4 +19,4 @@ i do! i do!
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l58zhwYgSe1qb8l8q.jpg)
+![](/public/assets/tumblr_l58zhwYgSe1qb8l8q.jpg)

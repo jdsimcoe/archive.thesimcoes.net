@@ -19,7 +19,7 @@ is it his amazing ability to style his hair?
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l80vnrLUwv1qb8l8q.jpg)
+![](/public/assets/tumblr_l80vnrLUwv1qb8l8q.jpg)
 
 
 
@@ -34,7 +34,7 @@ how about his thick and nerdy glasses that he can somehow pull off…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l80vqpHNAt1qb8l8q.jpg)
+![](/public/assets/tumblr_l80vqpHNAt1qb8l8q.jpg)
 
 
 
@@ -49,7 +49,7 @@ what about the amazing ability to maintain a farmer's tan… YEAR ROUND!
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l80vs5B7Jv1qb8l8q.jpg)
+![](/public/assets/tumblr_l80vs5B7Jv1qb8l8q.jpg)
 
 
 
@@ -64,7 +64,7 @@ its got to be those soft hands!
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l80vuepD4Q1qb8l8q.jpg)
+![](/public/assets/tumblr_l80vuepD4Q1qb8l8q.jpg)
 
 
 
@@ -79,7 +79,7 @@ then it is definitely the way he wears his socks when he does yard work…
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l80vwqutuJ1qb8l8q.jpg)
+![](/public/assets/tumblr_l80vwqutuJ1qb8l8q.jpg)
 
 
 
@@ -94,4 +94,4 @@ it must just be the over all package.. because i love every single one of those 
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_l80w1a4s9w1qb8l8q.jpg)
+![](/public/assets/tumblr_l80w1a4s9w1qb8l8q.jpg)

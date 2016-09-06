@@ -24,7 +24,7 @@ I'd show you the before, but it is too embarrassing, so here is the after:
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lyu5tsbILU1qb8l8q.jpg)
+![](/public/assets/tumblr_lyu5tsbILU1qb8l8q.jpg)
 
 
 
@@ -39,7 +39,7 @@ Also in preparation of moving the TV out of the soon to be nursery we decided to
 
 
 
-![]({{ site.baseurl }}/assets/tumblr_lyu6f4Acyv1qb8l8q.jpg)
+![](/public/assets/tumblr_lyu6f4Acyv1qb8l8q.jpg)
 
 
 
